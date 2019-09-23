@@ -15,4 +15,4 @@ navbar:
       href: contact.html
 output:
   html_document:
-    theme: spacelab
+    theme: flatly
