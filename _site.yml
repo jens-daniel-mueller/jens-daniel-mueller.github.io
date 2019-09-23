@@ -13,6 +13,24 @@ navbar:
       href: cv.html
     - text: "Contact"
       href: contact.html
+    - text: "More"
+      menu:
+ #       - text: "Heading 1"
+        - text: "Page A"
+          href: page-a.html
+        - text: "Page B"
+          href: page-b.html
+#        - text: "---------"
+#        - text: "Heading 2"
+#        - text: "Page C"
+#          href: page-c.html
+#        - text: "Page D"
+#          href: page-d.html
+#  right:
+#    - icon: fa-github fa-lg
+#      href: https://github.com/jens-daniel-mueller
+#    - icon: fa-twitter fa-lg
+#      href: https://twitter.com/Jens_D_Mueller
 output:
   html_document:
     theme: flatly
