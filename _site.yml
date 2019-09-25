@@ -28,6 +28,8 @@ navbar:
       href: mailto:jens.mueller@io-warnemuende.de
     - icon: fa-twitter fa-lg
       href: https://twitter.com/Jens_D_Mueller
+#    - icon: ai-google-scholar-square
+#      href: https://scholar.google.de/citations?user=HUngozUAAAAJ&hl=de
     - icon: fa-github fa-lg
       href: https://github.com/jens-daniel-mueller
 output:
