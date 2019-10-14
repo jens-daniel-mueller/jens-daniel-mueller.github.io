@@ -14,13 +14,46 @@ output:
 
 ### 2019
 
-> Müller et al 2018
-
-
 ### 2018
+
+**Müller, J.D.** and Rehder, G. (2018)  
+Metrology of pH measurements in brackish waters - part 2: Experimental characterization of purified m-Cresol Purple for spectrophotometric pHT measurements  
+Front. Mar. Sci. | doi:10.3389/fmars.2018.00177
+
+**Müller, J.D.**, Bastkowski, F., Sander, B., Seitz, S., Turner, D.R., Dickson, A.G., and Rehder, G. (2018)  
+Metrology for pH measurements in brackish waters – part 1: Extending electrochemical pHT measurements of TRIS buffers to salinities 5 – 20  
+Front. Mar. Sci. | doi:10.3389/fmars.2018.00176
+
+Staudinger, C., Strobl, M., Fischer, J., … , **Müller, J.D.**, Achterberg, E., Borisov, S., and Klimant, I. (2018)  
+A versatile optode system for oxygen, carbon dioxide, and pH measurements in seawater with integrated battery and logger  
+Limnol. Oceanogr. Methods, 16: 459-473 | doi:10.1002/lom3.10260
+
+Wahl, M., Schneider Covachã, S., Saderne, V., Hiebenthal, C., **Müller, J.D.**, Pansch, C., et al. (2018)  
+Macroalgae may mitigate ocean acidification effects on mussel calcification by increasing pH and its fluctuations  
+Limnol. Oceanogr., 63: 3-21 | doi:10.1002/lno.10608
 
 ### 2017
 
+**Müller, J.D.**, Schneider, B., Aßmann, S., and Rehder, G. (2017)  
+Spectrophotometric pH measurements in the presence of dissolved organic matter and hydrogen sulfide  
+Limnol. Oceanogr. Methods, 16: 68-82 | doi:10.1002/lom3.10227
+
+Fritzsche, E., Gruber, P., Schutting, S., Fischer, J. P., Strobl, M., **Müller, J.D.**, et al. (2017)  
+Highly sensitive poisoning-resistant optical carbon dioxide sensors for environmental monitoring  
+Anal. Methods, 9: 55–65 | doi:10.1039/C6AY02949C
+
 ### 2016
+
+**Müller, J.D.**, Schneider, B., and Rehder, G. (2016)  
+Long-term alkalinity trends in the Baltic Sea and their implications for CO2-induced acidification  
+Limnol. Oceanogr., 61: 1984–2002 | doi:10.1002/lno.10349
+
+### 2015
+
+Wahl, M., Buchholz, B., Winde, V., Golomb, D., Guy-Haim, T., **Müller, J.**, et al. (2015)  
+A mesocosm concept for the simulation of near-natural shallow underwater climates: The Kiel Outdoor Benthocosms (KOB)  
+Limnol. Oceanogr. Methods, 13: 651–663. | doi:10.1002/lom3.10055
+
+
 
 ## Selected talks and posters
