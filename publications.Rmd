@@ -1,0 +1,26 @@
+---
+title: "Publications"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+---
+
+## Books
+
+## Peer-reviewed articles
+
+### 2019
+
+> Müller et al 2018
+
+
+### 2018
+
+### 2017
+
+### 2016
+
+## Selected talks and posters

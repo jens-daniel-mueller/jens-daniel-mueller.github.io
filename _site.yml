@@ -1,7 +1,7 @@
 name: "Jens Website"
 output_dir: "."
 navbar:
-  title: "Jens Daniel Mueller"
+  title: "Dr. Jens Daniel Müller"
   left:
     - text: "Research foci"
       href: research.html
