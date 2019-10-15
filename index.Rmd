@@ -2,8 +2,10 @@
 title: "Welcome!"
 ---
 <center>
-![](img/avatar.jpg){width=30%}
+![](img/avatar_website_pic_wide.jpg){width=100%}
 
+<div style="margin-bottom:50px;">
+</div>
 
 ## Marine Biogeochemistry & a pinch of Data Science
 
