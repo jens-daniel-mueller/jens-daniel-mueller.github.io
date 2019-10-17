@@ -1,5 +1,5 @@
 ---
-title: "WARNING: Site still under construction!"
+title: "WARNING: Site under construction!"
 ---
 <center>
 ![](img/avatar_website_pic_wide.jpg){width=100%}
