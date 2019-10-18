@@ -13,6 +13,11 @@ Next steps? Blend Finnmaid data with observations from biogeochemical ARGO float
 
 ## Ocean acidification and alkalinity trends
 
+<center>
+![](img/research_foci/AT_trends.jpg){width=70%}
+
+</center>
+
 The oceans take up Gigatonnes of anthropogenic CO~2~ year by year, thereby getting more and more acidic. This is process is simple chemistry at its best and therefore very predictable. Everywhere? Nope! In the Baltic Sea, I detected an [increasing alkalinity trend that buffered the acidification](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.10349){target="_blank"} expected from the atmospheric CO2 forcing by roughly 50%. How does it continue? No idea, because we do not yet completely understand the drivers for the past alkalinity rise. As the process might also inverse, we better start a reliable acidification monitoring soon and continue to keep an eye on the alkalinity, here and elsewhere in the world.
 
 ***
