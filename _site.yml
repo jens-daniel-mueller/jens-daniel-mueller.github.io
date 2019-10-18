@@ -15,8 +15,8 @@ navbar:
       href: contact.html
     - text: "Current projects"
       menu:
-        - text: "Baltic productivity"
-          href: https://jens-daniel-mueller.github.io/Baltic_Productivity/Finnmaid-GETM.html
+#        - text: "Baltic productivity"
+#          href: https://jens-daniel-mueller.github.io/Baltic_Productivity/Finnmaid-GETM.html
         - text: "Diurnal pCO2 variability"
           href: https://jens-daniel-mueller.github.io/Diurnal_pCO2_variability_Baltic/Finnmaid.html
   right:
