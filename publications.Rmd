@@ -7,6 +7,9 @@ output:
       collapsed: false
       smooth_scroll: true
 ---
+<center>
+![](img/banners/papers_website_pic_wide_bw.jpg){width=100%}
+</center>
 
 <div style="margin-bottom:50px;">
 </div>
@@ -116,3 +119,12 @@ Talk | Wasser 2015 | Schwerin | 11.05.2015
 Müller J., Schneider B., Aßmann S., Hammer K., Rehder G.  
 **Spectrophotometric pH measurements in the Baltic Sea: necessity, challenges and solutions**  
 Talk | ASLO 2015 - Aquatic Sciences Meeting | Grenada | 23.02.2015
+
+## Thesis
+
+
+
+## Patents
+
+Topic: pH methodology
+Status: German patent registration on priorization stage, publication of registration expected mid-2020
