@@ -15,6 +15,8 @@ output:
 <div style="margin-bottom:50px;">
 </div>
 
+
+
 ## Monographies
 
 Schneider, B. and Müller, J.D. (2017)  
@@ -23,6 +25,9 @@ Springer International Publishing | [doi:10.1007/978-3-319-61699-5](https://www.
 
 <div style="margin-bottom:50px;">
 </div>
+
+
+
 
 ## Peer-reviewed articles
 
@@ -121,6 +126,12 @@ Müller J., Schneider B., Aßmann S., Hammer K., Rehder G.
 **Spectrophotometric pH measurements in the Baltic Sea: necessity, challenges and solutions**  
 Talk | ASLO 2015 - Aquatic Sciences Meeting | Grenada | 23.02.2015
 
+<div style="margin-bottom:50px;">
+</div>
+
+
+
+
 ## PhD Thesis
 
 **Ocean Acidification in the Baltic Sea: Involved Processes, Metrology of pH in Brackish Waters, and Calcification under Fluctuating Conditions**  
@@ -128,6 +139,12 @@ May 2018 | Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)
 Grade: with honors (summa cum laude)  
 Supervisor: Prof. Dr. Gregor Rehder | Mentor: Dr. Bernd Schneider  
 [pdf]()
+
+<div style="margin-bottom:50px;">
+</div>
+
+
+
 
 
 ## Patents
