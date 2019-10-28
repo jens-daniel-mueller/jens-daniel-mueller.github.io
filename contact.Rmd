@@ -1,42 +1,35 @@
 ---
 title: "Contact"
-output:
-  html_document:
-    code_folding: hide
 ---
 
 
-```{r global_options, include = FALSE}
-knitr::opts_chunk$set(warning=FALSE, message=FALSE)
-```
-
-
-```{r map}
+```{r map, echo = FALSE, warning=FALSE, message=FALSE}
 library(leaflet)
 library(tidyverse)
 
 IOW <- paste(sep = "<br/>",
   "<b><a href='https://www.io-warnemuende.de/en_index.html'>Leibniz Institute for Baltic Sea Research (IOW)</a></b>",
   "Seestraße 15",
-  "18119 Rostock, Germany"
+  "18119 Rostock, Germany",
+  "here: Monday - Tuesday"
 )
 
 CEN <- paste(sep = "<br/>",
   "<b><a href='https://www.ifm.uni-hamburg.de/en.html'>Institute of Oceanography (IfM)</a></b>",
   "Bundesstr. 53",
-  "20146 Hamburg, Germany"
+  "20146 Hamburg, Germany",
+  "here: Wednesday - Thursday"
 )
 
 places <- tibble(lat = c(54.179899, 53.567899), lon=c(12.081038, 9.975583), label=c(IOW, CEN))
 
 places %>% 
   leaflet() %>%
-  setView(lng = 11, lat = 53.8, zoom = 8) %>% 
+  setView(lng = 11.15, lat = 54, zoom = 8) %>% 
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addPopups(lng=  ~lon, lat= ~lat, ~label,
     options = popupOptions(closeButton = FALSE)
-  ) %>% 
-  addMiniMap()
+  )
 
 ```
 
