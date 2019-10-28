@@ -11,8 +11,8 @@ navbar:
       href: media.html
     - text: "Teaching"
       href: teaching.html
-    - text: "CV"
-      href: cv.html
+    - text: "About"
+      href: about.html
     - text: "Contact"
       href: contact.html
     - text: "Current projects"

@@ -306,12 +306,6 @@ div.tocify {
   border-radius: 0px;
 }
 
-.tocify-subheader {
-  display: inline;
-}
-.tocify-subheader .tocify-item {
-  font-size: 0.95em;
-}
 
 </style>
 
@@ -362,7 +356,7 @@ div.tocify {
   <a href="teaching.html">Teaching</a>
 </li>
 <li>
-  <a href="cv.html">CV</a>
+  <a href="about.html">About</a>
 </li>
 <li>
   <a href="contact.html">Contact</a>
@@ -524,12 +518,21 @@ Talk | Wasser 2015 | Schwerin | 11.05.2015</p>
 Talk | ASLO 2015 - Aquatic Sciences Meeting | Grenada | 23.02.2015</p>
 </div>
 </div>
-<div id="thesis" class="section level2">
-<h2>Thesis</h2>
+<div id="phd-thesis" class="section level2">
+<h2>PhD Thesis</h2>
+<p><strong>Ocean Acidification in the Baltic Sea: Involved Processes, Metrology of pH in Brackish Waters, and Calcification under Fluctuating Conditions</strong><br />
+May 2018 | Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)<br />
+Grade: with honors (summa cum laude)<br />
+Supervisor: Prof. Dr. Gregor Rehder | Mentor: Dr. Bernd Schneider<br />
+<a href="">pdf</a></p>
 </div>
 <div id="patents" class="section level2">
 <h2>Patents</h2>
-<p>Topic: pH methodology Status: German patent registration on priorization stage, publication of registration expected mid-2020</p>
+<div id="pending" class="section level3">
+<h3>Pending</h3>
+<p>Topic: pH methodology<br />
+Status: German patent registration on priorization stage, publication of registration expected mid-2020</p>
+</div>
 </div>
 
 
@@ -587,7 +590,7 @@ $(document).ready(function ()  {
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
     };
-    options.showAndHide = false;
+    options.showAndHide = true;
     options.smoothScroll = true;
 
     // tocify

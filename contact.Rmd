@@ -1,0 +1,18 @@
+---
+title: "Contact"
+---
+
+
+```{r map}
+library(leaflet)
+library(tidyverse)
+
+places <- tibble(lat = c(54.179899, 53.567899), lon=c(12.081038, 9.975583), label=c("IOW", "CEN"))
+
+places %>% 
+  leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=  ~lon, lat= ~lat, popup= ~label)
+
+```
+

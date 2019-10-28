@@ -4,8 +4,9 @@ output:
   html_document:
     toc: true
     toc_float:
-      collapsed: false
+      collapsed: true
       smooth_scroll: true
+    toc_depth: 3
 ---
 <center>
 ![](img/banners/papers_website_pic_wide_bw.jpg){width=100%}
@@ -120,11 +121,17 @@ Müller J., Schneider B., Aßmann S., Hammer K., Rehder G.
 **Spectrophotometric pH measurements in the Baltic Sea: necessity, challenges and solutions**  
 Talk | ASLO 2015 - Aquatic Sciences Meeting | Grenada | 23.02.2015
 
-## Thesis
+## PhD Thesis
 
+**Ocean Acidification in the Baltic Sea: Involved Processes, Metrology of pH in Brackish Waters, and Calcification under Fluctuating Conditions**  
+May 2018 | Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
+Grade: with honors (summa cum laude)  
+Supervisor: Prof. Dr. Gregor Rehder | Mentor: Dr. Bernd Schneider  
+[pdf]()
 
 
 ## Patents
 
-Topic: pH methodology
+### Pending
+Topic: pH methodology  
 Status: German patent registration on priorization stage, publication of registration expected mid-2020

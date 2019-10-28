@@ -11,7 +11,7 @@ title: "Marine Biogeochemistry & a pinch of Data Science"
 <div style="margin-bottom:50px;">
 </div>
 
-## About
+## In brief
 
 ***
 
