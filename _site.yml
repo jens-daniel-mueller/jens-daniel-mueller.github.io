@@ -1,4 +1,4 @@
-name: "Jens Website"
+name: "Jens Website" 
 output_dir: "."
 navbar:
   title: "Dr. Jens Daniel Müller"
@@ -17,8 +17,6 @@ navbar:
       href: contact.html
     - text: "Current projects"
       menu:
-#        - text: "Baltic productivity"
-#          href: https://jens-daniel-mueller.github.io/Baltic_Productivity/Finnmaid-GETM.html
         - text: "Diurnal pCO2 variability"
           href: https://jens-daniel-mueller.github.io/Diurnal_pCO2_variability_Baltic/Finnmaid.html
   right:
@@ -26,8 +24,6 @@ navbar:
       href: mailto:jens.mueller@io-warnemuende.de
     - icon: fa-twitter fa-lg
       href: https://twitter.com/Jens_D_Mueller
-    - icon: fa-graduation-cap
-      href: https://scholar.google.de/citations?user=HUngozUAAAAJ&hl=de
     - icon: fa-github fa-lg
       href: https://github.com/jens-daniel-mueller
 output:

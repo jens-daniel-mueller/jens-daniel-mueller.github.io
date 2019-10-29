@@ -18,7 +18,13 @@ output:
 <div style="margin-bottom:50px;">
 </div>
 
+Regularly updated publication lists are also hosted on:
 
+[Google scholar](https://scholar.google.de/citations?user=HUngozUAAAAJ&hl=de) (includes citations)  
+[OrcID]()
+
+<div style="margin-bottom:50px;">
+</div>
 
 ## Monographies
 
@@ -30,7 +36,7 @@ Springer International Publishing | [doi:10.1007/978-3-319-61699-5](https://www.
 </div>
 
 
-
+***
 
 ## Peer-reviewed articles
 
@@ -83,6 +89,8 @@ Limnol. Oceanogr. Methods, 13: 651–663. | [doi:10.1002/lom3.10055](https://asl
 <div style="margin-bottom:50px;">
 </div>
 
+***
+
 ## Selected Talks and Posters
 
 ### 2018
@@ -134,6 +142,7 @@ Talk | ASLO 2015 - Aquatic Sciences Meeting | Grenada | 23.02.2015
 
 
 
+***
 
 ## PhD Thesis
 
@@ -148,6 +157,7 @@ Supervisor: Prof. Dr. Gregor Rehder | Mentor: Dr. Bernd Schneider
 
 
 
+***
 
 
 ## Patents
@@ -155,3 +165,21 @@ Supervisor: Prof. Dr. Gregor Rehder | Mentor: Dr. Bernd Schneider
 ### Pending
 Topic: pH methodology  
 Status: German patent registration on priorization stage, publication of registration expected mid-2020
+
+<div style="margin-bottom:50px;">
+</div>
+
+
+
+***
+
+
+## Reviewer activity
+
+I've reviewed manuscripts for:
+
+[Frontiers in Marine Science]()  
+[Limnology and Oceanography: Methods]()
+
+
+***

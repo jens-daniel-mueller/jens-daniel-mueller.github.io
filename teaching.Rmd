@@ -8,7 +8,16 @@ output:
       smooth_scroll: true
 ---
 
+<div style="margin-bottom:50px;">
+</div>
+
+
 # University of Rostock
+
+
+<div style="margin-bottom:50px;">
+</div>
+
 
 ## SS 2019
 
@@ -20,6 +29,13 @@ output:
 
 **Water**  
 03.06.2019 | [Slides](lectures/190603_Mueller_Water_Rostock_low_res.pdf)
+
+
+
+<div style="margin-bottom:50px;">
+</div>
+
+***
 
 ## WS 2018/19
 
