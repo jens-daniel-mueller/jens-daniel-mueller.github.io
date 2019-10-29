@@ -8,8 +8,11 @@ output:
       smooth_scroll: true
     toc_depth: 3
 ---
+
 <center>
+
 ![](img/banners/papers_website_pic_wide_bw.jpg){width=100%}
+
 </center>
 
 <div style="margin-bottom:50px;">
