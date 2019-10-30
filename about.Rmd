@@ -35,23 +35,23 @@ Please find a complete and detailed CV including publication list [here](CV/CV_M
 **PhD Chemical Oceanography**  
 Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
 Supervisor: Prof. Dr. Gregor Rehder  
-Title: Ocean Acidification in the Baltic Sea: Involved Processes, Metrology of pH in Brackish Waters, and Calcification under Fluctuating Conditions  
-Grade: with honors (summa cum laude)  
+Title: [Ocean Acidification in the Baltic Sea: Involved Processes, Metrology of pH in Brackish Waters, and Calcification under Fluctuating Conditions](http://rosdok.uni-rostock.de/resolve/id/rosdok_disshab_0000001963)  
+Grade: With honors (Summa cum laude)  
 
 2012  
 **MSc Biological Oceanography**  
 GEOMAR Helmholtz Centre for Ocean Research Kiel  
-Grade: 1.2 (equivalent to ECTS grade A “Excellent”)  
+Grade: 1.2 (ECTS grade A “Excellent”)  
 
 2009  
 **BSc Chemistry**  
 Phillips-University Marburg  
-Grade: 1.7 (equivalent to ECTS grade B “Very good”)  
+Grade: 1.7 (ECTS grade B “Very good”)  
 
 2008  
 **Intermediate diploma Chemistry**  
 Humboldt-University of Berlin  
-Grade: 2.0 (equivalent to ECTS grade B “Very good”)  
+Grade: 2.0 (ECTS grade B “Very good”)  
 
 <div style="margin-bottom:50px;">
 </div>
@@ -63,14 +63,19 @@ Grade: 2.0 (equivalent to ECTS grade B “Very good”)
 Since 2018  
 **PostDoc**  
 Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
-Funded by EU project BONUS INTEGRAL  
+EU project [BONUS INTEGRAL](https://www.io-warnemuende.de/integral-home.html)  
 PI of BloomSail  
+
+2014 – 2018  
+PhD student
+Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
+EU project [BONUS PINBAL](https://www.io-warnemuende.de/pinbal-home.html)
 
 2013 – 2014  
 **Scientific Employee**  
 GEOMAR Helmholtz Centre for Ocean Research Kiel  
-Benthic Ecology, Prof. Dr. M. Wahl  
-Marine Biogeochemistry, Prof. Dr. U. Riebesell  
+Benthic Ecology | Prof. Dr. M. Wahl  
+Marine Biogeochemistry | Prof. Dr. U. Riebesell  
 
 2013  
 **Sailing Instructor**  
@@ -83,7 +88,7 @@ Al Dive dive centre, Loubiere, Dominica
 2010  
 **Research Assistant**  
 GEOMAR Helmholtz Centre for Ocean Research Kiel  
-Research Unit Evolutionary Ecology of Marine Fishes, Prof. Dr. T. Reusch  
+Evolutionary Ecology of Marine Fishes | Prof. Dr. T. Reusch  
 
 
 
@@ -95,18 +100,22 @@ Research Unit Evolutionary Ecology of Marine Fishes, Prof. Dr. T. Reusch
 
 # Funding
 
+2019
+SPECTROPHABS (**Spectro**photometric **pH**-measurements for monitoring of marine **a**cidification in the **B**altic **S**ea)
+Co-applicant
+
 2018  
 **Early-Career Grant**  
 **National Geographic Society**  
-Financial and outreach support for Bloomsail expedition  
+Financial and outreach support for [Bloomsail](https://www.io-warnemuende.de/Tina-V-home-en.html) expedition  
 
 2010-2018  
-**German Academic Scholarship Foundation**  
-PhD scholarship (ideational)  
-Full student scholarship  
-Field work grant, Patagonia, Chile  
-Advanced English course, Bath, England  
-Summer academy, San Giovanni, Italy  
+**German Academic Scholarship Foundation** (Studienstiftung des deutschen Volkes)  
+*PhD scholarship (ideational)  
+*Full student scholarship  
+*Field work grant, Patagonia, Chile  
+*Advanced English course, Bath, England  
+*Summer academy, San Giovanni, Italy  
 
 
 <div style="margin-bottom:50px;">
@@ -154,11 +163,12 @@ Expeditions:
 Off-shore mesocosm experiment, Gran Canaria, Spain (2 months)  
 Huinay Scientific Field Station, Patagonia, Chile (3 months)
 
-
-Member of the Academic Sailing Association (ASV e.V.) Kiel  
+Since 2010
+**Member of the Academic Sailing Association in Kiel** (ASViK e.V.)  
 Several sailing campaigns including ocean crossings  
 Holder of boat driver, safety and radio certificates  
 
+2006 - 2009
 Founder and Chairman of [Growtogether e.V](www.growtogether.wordpress.com)  
 Association to support developmental cooperation
 
