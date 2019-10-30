@@ -1,5 +1,12 @@
 ---
 title: "About"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: true
+      smooth_scroll: true
+    toc_depth: 3
 ---
 
 <div style="margin-bottom:50px;">
@@ -10,6 +17,11 @@ title: "About"
 
 
 </center>
+
+<div style="margin-bottom:50px;">
+</div>
+
+Please find a complete and detailed CV including publication list [here](CV/CV_Mueller_Jens_Daniel_2019.pdf)
 
 <div style="margin-bottom:50px;">
 </div>
@@ -48,6 +60,34 @@ Grade: 2.0 (equivalent to ECTS grade B “Very good”)
 
 # Employment
 
+Since 2018  
+**PostDoc**  
+Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
+Funded by EU project BONUS INTEGRAL  
+PI of BloomSail  
+
+2013 – 2014  
+**Scientific Employee**  
+GEOMAR Helmholtz Centre for Ocean Research Kiel  
+Benthic Ecology, Prof. Dr. M. Wahl  
+Marine Biogeochemistry, Prof. Dr. U. Riebesell  
+
+2013  
+**Sailing Instructor**  
+Kiel Marketing GmbH | Camp 24/7  
+
+2013  
+**Divemaster**  
+Al Dive dive centre, Loubiere, Dominica  
+
+2010  
+**Research Assistant**  
+GEOMAR Helmholtz Centre for Ocean Research Kiel  
+Research Unit Evolutionary Ecology of Marine Fishes, Prof. Dr. T. Reusch  
+
+
+
+
 <div style="margin-bottom:50px;">
 </div>
 
@@ -56,14 +96,12 @@ Grade: 2.0 (equivalent to ECTS grade B “Very good”)
 # Funding
 
 2018  
-
-Early-Career Grant  
-National Geographic Society  
+**Early-Career Grant**  
+**National Geographic Society**  
 Financial and outreach support for Bloomsail expedition  
 
 2010-2018  
-
-Scholarships awarded by the German Academic Scholarship Foundation  
+**German Academic Scholarship Foundation**  
 PhD scholarship (ideational)  
 Full student scholarship  
 Field work grant, Patagonia, Chile  
@@ -79,14 +117,22 @@ Summer academy, San Giovanni, Italy
 # Awards
 
 2019  
+**Briese Award**  
+for outstanding PhD thesis in Marine Research  
 
-Briese Award for outstanding PhD thesis in Marine Research  
+2019  
+**Dissertation award**  
+**German Water Chemical Society**  
+sponsored by Walter-Kölle foundation  
 
-Walter
+2019  
+**Dissertation award**  
+**Baltic Sea Research Foundation **
 
 
 2017  
-Best poster presentation by newcomers, Baltic Sea Science Congress  
+**Best poster presentation by newcomers**  
+Baltic Sea Science Congress  
 
 2005  
 Book-price for extraordinary achievements during the Abitur  
@@ -102,7 +148,7 @@ Book-price for extraordinary achievements during the Abitur
 </div>
 
 2011  
-Certified Scientific Diver  
+**Certified Scientific Diver**  
 200+ logged dives, dive mission leader, Nitrox-diver  
 Expeditions:  
 Off-shore mesocosm experiment, Gran Canaria, Spain (2 months)  
