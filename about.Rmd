@@ -13,7 +13,7 @@ output:
 </div>
 
 <center>
-![](img/banners/avatar_website_pic_wide_bw.jpg){width=100%}
+![](img/banners/about_website_pic_wide_bw.jpg){width=100%}
 
 
 </center>
