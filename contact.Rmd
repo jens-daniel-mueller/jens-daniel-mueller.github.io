@@ -2,6 +2,15 @@
 title: "Contact"
 ---
 
+
+Dr. Jens Daniel Müller  
+Leibniz Institute for Baltic Sea Research (IOW)  
+Seestr. 15  
+18119 Rostock  
+Germany  
+
+***
+
 Mail: [jens.mueller@io-warnemuende.de](mailto:jens.mueller@io-warnemuende.de)  
 
 Twitter: [Jens_D_Mueller](https://twitter.com/Jens_D_Mueller)
@@ -10,12 +19,7 @@ ORCID iD: [0000-0003-3137-0883](https://orcid.org/0000-0003-3137-0883)
 
 Github: [jens-daniel-mueller](https://github.com/jens-daniel-mueller)
 
-Post adress:  
-Dr. Jens Daniel Müller  
-Leibniz Institute for Baltic Sea Research (IOW)  
-Seestr. 15  
-18119 Rostock  
-Germany  
+***
 
 But the best is: Drop in and let's have a coffee:
 

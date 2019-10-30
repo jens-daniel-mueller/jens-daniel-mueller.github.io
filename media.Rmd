@@ -28,6 +28,11 @@ output:
 [ger] 30 sec about prize giving ceremony at IOW.
 
 
+<div style="margin-bottom:50px;">
+</div>
+
+***
+
 # Podcast
 
 **Segelradio - Hinnerk Weiler** | 18.4.2019 | [Link](https://www.segelradio.de/bloomsail-den-ostsee-blaualgen-auf-der-spur/?fbclid=IwAR00T4uOKApx0zyHyfR51nNBga-3kxMCIMcqsyyul23oAjicEYFBTqpaJLo){target="_blank"}  
@@ -45,6 +50,12 @@ output:
 **NDR-Info Logo** | 15.12.2017 | [mp3](media/171215_NDR-Info_Logo_CO2_Brille_Podcast.mp3)  
 [ger] 5min Interview together with Dr. Bernd Schneider on the occasion of the publication of our CO~2~-book.
 
+
+<div style="margin-bottom:50px;">
+</div>
+
+***
+
 # Online
 
 **International Ocean Systems** | March/April 2019 | [Link](http://www.intoceansys.co.uk/articles-detail.php?iss=0000000071&acl=0000000647){target="_blank"}   
@@ -52,6 +63,12 @@ output:
 
 **National Geographic Deutschland** | 30.05.2019 | [Link](https://www.nationalgeographic.de/wissenschaft/2018/05/toedliche-bluete?fbclid=IwAR2mWF6eLrLooLic9IrZqiDVQmZUGquxM7p71L5h-ZbLHogrXHRtGQWkEFU){target="_blank"}   
 [ger] Report informing about the start of the NGS-funded BloomSail expedition.
+
+
+<div style="margin-bottom:50px;">
+</div>
+
+***
 
 # Print
 
@@ -75,3 +92,9 @@ output:
 
 **Zeit Studienführer** | Mein Beruf: Ich bin Meeresforscher | 11.01.2017 | [pdf](media/170111_ZEIT_Studienfuehrer_Beileger_print.pdf)  
 [ger] Portrait of a young marine scientist.
+
+
+<div style="margin-bottom:50px;">
+</div>
+
+***

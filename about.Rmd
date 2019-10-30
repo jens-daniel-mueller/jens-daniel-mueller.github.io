@@ -28,9 +28,6 @@ Please find a complete and detailed CV including publication list [here](CV/CV_M
 
 # Education
 
-<div style="margin-bottom:50px;">
-</div>
-
 2018  
 **PhD Chemical Oceanography**  
 Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
@@ -153,8 +150,6 @@ Book-price for extraordinary achievements during the Abitur
 
 # Extracurricular acitvities
 
-<div style="margin-bottom:50px;">
-</div>
 
 2011  
 **Certified Scientific Diver**  
