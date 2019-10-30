@@ -21,7 +21,7 @@ output:
 <div style="margin-bottom:50px;">
 </div>
 
-Please find a complete and detailed CV including publication list [here](CV/CV_Mueller_Jens_Daniel_2019.pdf)
+Please find a complete and detailed CV including publication list [here](CV/CV_Mueller_Jens_Daniel_Oct_2019.pdf)
 
 <div style="margin-bottom:50px;">
 </div>
@@ -35,7 +35,7 @@ Please find a complete and detailed CV including publication list [here](CV/CV_M
 **PhD Chemical Oceanography**  
 Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
 Supervisor: Prof. Dr. Gregor Rehder  
-Title: [Ocean Acidification in the Baltic Sea: Involved Processes, Metrology of pH in Brackish Waters, and Calcification under Fluctuating Conditions](http://rosdok.uni-rostock.de/resolve/id/rosdok_disshab_0000001963)  
+Title: [Ocean Acidification in the Baltic Sea: Involved Processes, Metrology of pH in Brackish Waters, and Calcification under Fluctuating Conditions](http://rosdok.uni-rostock.de/resolve/id/rosdok_disshab_0000001963){target="_blank"}  
 Grade: With honors (Summa cum laude)  
 
 2012  
@@ -63,12 +63,12 @@ Grade: 2.0 (ECTS grade B “Very good”)
 Since 2018  
 **PostDoc**  
 Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
-EU project [BONUS INTEGRAL](https://www.io-warnemuende.de/integral-home.html)  
+EU project [BONUS INTEGRAL](https://www.io-warnemuende.de/integral-home.html){target="_blank"}  
 
 2014 – 2018  
 **PhD student**  
 Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
-EU project [BONUS PINBAL](https://www.io-warnemuende.de/pinbal-home.html)
+EU project [BONUS PINBAL](https://www.io-warnemuende.de/pinbal-home.html){target="_blank"}
 
 2013 – 2014  
 **Scientific Employee**  
@@ -106,7 +106,7 @@ Co-applicant
 2018  
 **Early-Career Grant**  
 **National Geographic Society**  
-Financial and outreach support for [Bloomsail](https://www.io-warnemuende.de/Tina-V-home-en.html) expedition  
+Financial and outreach support for [Bloomsail](https://www.io-warnemuende.de/Tina-V-home-en.html){target="_blank"} expedition  
 
 2010-2018  
 **German Academic Scholarship Foundation** (Studienstiftung des deutschen Volkes)
@@ -169,7 +169,7 @@ Several sailing campaigns including ocean crossings
 Holder of boat driver, safety and radio certificates  
 
 2006 - 2009  
-Founder and Chairman of [Growtogether e.V](www.growtogether.wordpress.com)  
+Founder and Chairman of [Growtogether e.V](www.growtogether.wordpress.com){target="_blank"}  
 Association to support developmental cooperation
 
 <div style="margin-bottom:50px;">

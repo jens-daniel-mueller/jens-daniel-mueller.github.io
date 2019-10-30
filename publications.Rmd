@@ -20,8 +20,8 @@ output:
 
 Regularly updated publication lists are also hosted on:
 
-[Google scholar](https://scholar.google.de/citations?user=HUngozUAAAAJ&hl=de) (includes citations)  
-[OrcID]()
+[Google scholar](https://scholar.google.de/citations?user=HUngozUAAAAJ&hl=de){target="_blank"} (includes citations)  
+[OrcID](https://orcid.org/0000-0003-3137-0883){target="_blank"}
 
 <div style="margin-bottom:50px;">
 </div>
