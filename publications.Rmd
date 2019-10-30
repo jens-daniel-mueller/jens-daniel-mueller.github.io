@@ -91,7 +91,7 @@ Springer International Publishing | [doi:10.1007/978-3-319-61699-5](https://www.
 <div style="margin-bottom:50px;">
 </div>
 
-
+***
 
 ## Selected Talks and Posters
 
@@ -152,7 +152,7 @@ Talk | ASLO 2015 - Aquatic Sciences Meeting | Grenada | 23.02.2015
 May 2018 | Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
 Grade: with honors (summa cum laude)  
 Supervisor: Prof. Dr. Gregor Rehder | Mentor: Dr. Bernd Schneider  
-[pdf](http://rosdok.uni-rostock.de/resolve/id/rosdok_disshab_0000001963)
+[pdf](http://rosdok.uni-rostock.de/resolve/id/rosdok_disshab_0000001963){target="_blank"}
 
 <div style="margin-bottom:50px;">
 </div>
@@ -180,8 +180,9 @@ Status: German patent registration on priorization stage, publication of registr
 
 I've reviewed manuscripts for:
 
-[Frontiers in Marine Science]()  
-[Limnology and Oceanography: Methods]()
+[Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science#){target="_blank"} 
+[Marine Chemistry](https://www.journals.elsevier.com/marine-chemistry){target="_blank"}
+[Limnology and Oceanography: Methods](https://www.aslo.org/aslo-publications/limnology-and-oceanography-methods/){target="_blank"}
 
 
 ***
