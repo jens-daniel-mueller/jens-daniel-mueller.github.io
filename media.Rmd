@@ -13,61 +13,65 @@ output:
 <div style="margin-bottom:50px;">
 </div>
 
-
-[Link](){target="_blank"}
-
 # TV
 
-arte Xenius | Die Ostsee: SOS für das europäische Meer | 10.09.2019 | [Link](https://www.arte.tv/de/videos/084700-003-A/xenius-die-ostsee/){target="_blank"}  
+**arte Xenius** | Die Ostsee: SOS für das europäische Meer | 10.09.2019 | [Link](https://www.arte.tv/de/videos/084700-003-A/xenius-die-ostsee/){target="_blank"}  
 [ger/french] 27min about BloomSail expedition. Some really nice shots and fun hosts.
 
-Nordmagazin | 19.02.19 | Briese award ceremony | [mp4](media/190220_Nordmagazin_Briese_TV.mp4)
+**Nordmagazin** | 19.02.19 | Briese award ceremony | [mp4](media/190220_Nordmagazin_Briese_TV.mp4)  
 [ger] 30 sec about prize giving ceremony at IOW.
 
-Nordmagazin - Interview Thilo Tautz | 13.10.2018 | [Link](https://vimeo.com/jensmueller/review/369831235/47506d5e82){target="_blank"}  
+**Nordmagazin - Interview Thilo Tautz** | 13.10.2018 | [Link](https://vimeo.com/jensmueller/review/369831235/47506d5e82){target="_blank"}  
 [ger] 6min studio interview and some nice footage from BloomSail expedition on Gotland.
 
-BR Gut zu Wissen | 18.08.2018 | Todeszonen in der Ostsee: Blaualgen | [Link](https://www.br.de/mediathek/video/gut-zu-wissen-11082018-todeszonen-in-der-ostsee-blaualgen-beissschiene-und-zaehneknirschen-av:5b3c9b56f2b3990012e85b2a){target="_blank"}, go to 21min10  
+**BR Gut zu Wissen** | 18.08.2018 | Todeszonen in der Ostsee: Blaualgen | [Link](https://www.br.de/mediathek/video/gut-zu-wissen-11082018-todeszonen-in-der-ostsee-blaualgen-beissschiene-und-zaehneknirschen-av:5b3c9b56f2b3990012e85b2a){target="_blank"}, go to 21min10  
 [ger] 30 sec about prize giving ceremony at IOW.
-
-[Link](){target="_blank"}
 
 
 # Podcast
 
-Segelradio | 18.4.2019 | [Link](https://www.segelradio.de/bloomsail-den-ostsee-blaualgen-auf-der-spur/?fbclid=IwAR00T4uOKApx0zyHyfR51nNBga-3kxMCIMcqsyyul23oAjicEYFBTqpaJLo){target="_blank"}  
-[ger] 45min chat with Hinnerk Weiler about the BloomSail expedition. Science from a sailors perspective.  
+**Segelradio - Hinnerk Weiler** | 18.4.2019 | [Link](https://www.segelradio.de/bloomsail-den-ostsee-blaualgen-auf-der-spur/?fbclid=IwAR00T4uOKApx0zyHyfR51nNBga-3kxMCIMcqsyyul23oAjicEYFBTqpaJLo){target="_blank"}  
+[ger] 45min chat about the BloomSail expedition. Science from a sailors perspective.  
 
-WDR Campus Wissen - Peter Kaiser | Ozeanversauerung | [mp3](media/190310_WDR_Campus_Wissen_Peter_Kaiser_Ozeanversauerung_Podcast.mp3)  
+**WDR Campus Wissen - Peter Kaiser** | Ozeanversauerung | [mp3](media/190310_WDR_Campus_Wissen_Peter_Kaiser_Ozeanversauerung_Podcast.mp3)  
 [ger] 5min30 How does ocean acidification impact us? And how can we measure it in the Baltic Sea?
 
-P4 Gotland radio | 20.08.2018 | [mp3](media/180820_P4_Gotland_radio_BloomSail_interview.MP3)  
-[swedish/engl] Interview on Gotland during BloomSail expedition. Very nive interview host.
+**P4 Gotland radio** | 20.08.2018 | [mp3](media/180820_P4_Gotland_radio_BloomSail_interview.MP3)  
+[swedish/engl] Interview on Gotland during BloomSail expedition. Very nice interview host.
 
-Bayern 2, IQ - Wissenschaft und Forschung | 18.07.2018 | [mp3](media/180727_IQ_Wissenschaft-und-Forschung_Todeszonen-in-der-Ostsee_Podcast.mp3)  
+**Bayern 2, IQ - Wissenschaft und Forschung** | 18.07.2018 | [mp3](media/180727_IQ_Wissenschaft-und-Forschung_Todeszonen-in-der-Ostsee_Podcast.mp3)  
 [ger] Interview on Gotland during BloomSail expedition.
+
+**NDR-Info Logo** | 15.12.2017 | [mp3](media/171215_NDR-Info_Logo_CO2_Brille_Podcast.mp3)  
+[ger] 5min Interview together with Dr. Bernd Schneider on the occasion of the publication of our CO~2~-book.
 
 # Online
 
-International Ocean Systems | March/April 2019 | [Link](http://www.intoceansys.co.uk/articles-detail.php?iss=0000000071&acl=0000000647){target="_blank"}   
+**International Ocean Systems** | March/April 2019 | [Link](http://www.intoceansys.co.uk/articles-detail.php?iss=0000000071&acl=0000000647){target="_blank"}   
 [eng] 2-pager summarizing our ambitions to extend pH measurements from oceans to brackish waters.
+
+**National Geographic Deutschland** | 30.05.2019 | [Link](https://www.nationalgeographic.de/wissenschaft/2018/05/toedliche-bluete?fbclid=IwAR2mWF6eLrLooLic9IrZqiDVQmZUGquxM7p71L5h-ZbLHogrXHRtGQWkEFU){target="_blank"}   
+[ger] Report informing about the start of the NGS-funded BloomSail expedition.
 
 # Print
 
-RHEINPFALZ AM SONNTAG | Die Sonne bringt es an den Tag | 19.03.2019 | [pdf](media/190317_Rheinpfalz_am_Sonntag_BloomSail_print.pdf)  
+**RHEINPFALZ AM SONNTAG** | Die Sonne bringt es an den Tag | 19.03.2019 | [pdf](media/190317_Rheinpfalz_am_Sonntag_BloomSail_print.pdf)  
 [ger] 1-pager about BloomSail expedition
 
-Ostsee Zeitung | 20.02.2019 | [pdf](media/190220_OZ_Briese_Preis_print.pdf)  
+**Ostsee Zeitung** | 20.02.2019 | [pdf](media/190220_OZ_Briese_Preis_print.pdf)  
 [ger] Briese award ceremony
 
-National Geographic | EIN MEER VON BLAUALGEN | 01.12.2018 | [pdf](media/181201_National Geographic Deutschland_Dezember_2018_nicht_final.pdf)  
+**National Geographic** | EIN MEER VON BLAUALGEN | 01.12.2018 | [pdf](media/181201_National Geographic Deutschland_Dezember_2018_nicht_final.pdf)  
 [ger] 2-pager with beautiful image about NGS-funded BloomSail expedition
 
-YACHT | Blühende Landschaften | 20.10.2018 | [pdf](media/181020_Yacht_Bluehende_Landschaften_print.pdf)  
-[German] I wrote this 2-pager about the BloomSail expedition for a german sailing magazin.
+**YACHT** | Blühende Landschaften | 20.10.2018 | [pdf](media/181020_Yacht_Bluehende_Landschaften_print.pdf)  
+[ger] I wrote this 2-pager about the BloomSail expedition for a german sailing magazin.
 
-Gotland Allehanda | 18.08.2018 | [mp3](media/180811_Gotlands_Allehanda_print.pdf)  
+**Gotland Allehanda** | 18.08.2018 | [mp3](media/180811_Gotlands_Allehanda_print.pdf)  
 [swedish] Local newspaper report about BloomSail expedition. Very nive pics and lots of content.
 
-Ostsee Zeitung | Expedition im Segelboot: Rostocker erforscht Blaualgen | 18.05.2018 | [pdf](media/180522_OZ_BloomSail_print.pdf)  
+**Ostsee Zeitung** | Expedition im Segelboot: Rostocker erforscht Blaualgen | 18.05.2018 | [pdf](media/180522_OZ_BloomSail_print.pdf)  
 [ger] Report informing about the start of the BloomSail expedition. Fun pics.
+
+**Zeit Studienführer** | Mein Beruf: Ich bin Meeresforscher | 11.01.2017 | [pdf](media/170111_ZEIT_Studienfuehrer_Beileger_print.pdf)  
+[ger] Portrait of a young marine scientist.
