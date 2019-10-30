@@ -95,6 +95,20 @@ Springer International Publishing | [doi:10.1007/978-3-319-61699-5](https://www.
 
 ## Selected Talks and Posters
 
+### 2019
+
+Müller J.D.  
+**Neue pH-Messmethode ermöglicht erstmals die Überwachung weiter Ostseebereiche**  
+[Talk](presentations/190604_BSH_MUS_mueller.pdf) | BSH Meeresumwelt-Symposium 2019 | Hamburg | 04.06.2019  
+
+Müller J.D.  
+**Ocean Acidification in the Baltic Sea - Involved Processes, Metrology of ph in Brachish Waters, and Calcification under Fluctuating Conditions**  
+[Talk](presentations/190527_Mueller_Jens_Wasser.pdf) | Wasser 2019 | Erfurt | 27.05.2019  
+
+Müller J.D.  
+**Ozeanversauerung in der Ostsee: pH-Veränderungen mit neuer Messtechnik und Langzeit-Studien auf der Spur**  
+[Talk](presentations/190219_Mueller_Jens_Briese.pdf) | Briese award ceremony | Warnemünde | 19.02.2019  
+
 ### 2018
 
 Müller J.D., Schneider B., Rehder G.  
@@ -108,7 +122,7 @@ Müller J.D., Bastkowski F., Schneider B., Rehder G.
 [Poster](presentations/170613_Mueller_BSSC_pH_Poster.pdf) | Baltic Sea Science Congress | Rostock | 17.06.2017
 
 Müller J.D., Schneider B.  
-**High-resolution pCO2 measurements on a cargo ship in the Baltic Sea: Patterns and trends derived from a synoptic look at 13 years of observations**  
+**High-resolution pCO~2~ measurements on a cargo ship in the Baltic Sea: Patterns and trends derived from a synoptic look at 13 years of observations**  
 [Poster](presentations/170612_Mueller_BSSC_pCO2_Poster.pdf) | Baltic Sea Science Congress | Rostock | 17.06.2017.
 
 ### 2016
