@@ -26,16 +26,6 @@ Regularly updated publication lists are also hosted on:
 <div style="margin-bottom:50px;">
 </div>
 
-## Monographies
-
-Schneider, B. and Müller, J.D. (2017)  
-**Biogeochemical Transformations in the Baltic Sea: Observations Through Carbon Dioxide Glasses**  
-Springer International Publishing | [doi:10.1007/978-3-319-61699-5](https://www.springer.com/de/book/9783319616988){target="_blank"}
-
-<div style="margin-bottom:50px;">
-</div>
-
-
 ***
 
 ## Peer-reviewed articles
@@ -90,6 +80,18 @@ Limnol. Oceanogr. Methods, 13: 651–663. | [doi:10.1002/lom3.10055](https://asl
 </div>
 
 ***
+
+
+## Books
+
+Schneider, B. and Müller, J.D. (2017)  
+**Biogeochemical Transformations in the Baltic Sea: Observations Through Carbon Dioxide Glasses**  
+Springer International Publishing | [doi:10.1007/978-3-319-61699-5](https://www.springer.com/de/book/9783319616988){target="_blank"}
+
+<div style="margin-bottom:50px;">
+</div>
+
+
 
 ## Selected Talks and Posters
 
