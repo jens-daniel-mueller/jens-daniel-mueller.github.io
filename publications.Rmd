@@ -1,4 +1,5 @@
 ---
+title: "Publications"
 output:
   html_document:
     toc: true
@@ -8,8 +9,13 @@ output:
     toc_depth: 3
 ---
 
-<div style="margin-bottom:50px;">
-</div>
+<style type="text/css">
+
+h1.title {
+  font-size: 0px;
+}
+
+</style>
 
 <center>
 
@@ -196,8 +202,8 @@ Status: German patent registration on priorization stage, publication of registr
 
 I've reviewed manuscripts for:
 
-[Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science#){target="_blank"} 
-[Marine Chemistry](https://www.journals.elsevier.com/marine-chemistry){target="_blank"}
+[Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science#){target="_blank"}  
+[Marine Chemistry](https://www.journals.elsevier.com/marine-chemistry){target="_blank"}  
 [Limnology and Oceanography: Methods](https://www.aslo.org/aslo-publications/limnology-and-oceanography-methods/){target="_blank"}
 
 

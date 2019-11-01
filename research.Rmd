@@ -1,9 +1,16 @@
 ---
+title: "Research foci"
 output: html_document
 ---
 
-<div style="margin-bottom:50px;">
-</div>
+<style type="text/css">
+
+h1.title {
+  font-size: 0px;
+}
+
+</style>
+
 
 <center>
 ![](img/banners/research_website_pic_wide_bw.jpg){width=100%}
