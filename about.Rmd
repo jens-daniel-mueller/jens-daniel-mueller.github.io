@@ -26,7 +26,7 @@ h1.title {
 <div style="margin-bottom:50px;">
 </div>
 
-Please find a complete and detailed CV including publication list [here](CV/CV_Mueller_Jens_Daniel_Oct_2019.pdf)
+Please find a complete and detailed CV including publication list [here](CV/CV_Mueller_Jens_Daniel_Oct_2019.pdf){target="_blank"}
 
 <div style="margin-bottom:50px;">
 </div>
@@ -35,7 +35,7 @@ Please find a complete and detailed CV including publication list [here](CV/CV_M
 
 2018  
 **PhD Chemical Oceanography**  
-Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
+Leibniz Institute for Baltic Sea Research Warnemünde (IOW)  
 Supervisor: Prof. Dr. Gregor Rehder  
 Title: [Ocean Acidification in the Baltic Sea: Involved Processes, Metrology of pH in Brackish Waters, and Calcification under Fluctuating Conditions](http://rosdok.uni-rostock.de/resolve/id/rosdok_disshab_0000001963){target="_blank"}  
 Grade: With honors (Summa cum laude)  
@@ -164,12 +164,12 @@ Off-shore mesocosm experiment, Gran Canaria, Spain (2 months)
 Huinay Scientific Field Station, Patagonia, Chile (3 months)
 
 Since 2010  
-**Member of the Academic Sailing Association in Kiel** (ASViK e.V.)  
+**Member of the Academic Sailing Association in Kiel** ([ASViK e.V.](https://www.asv-kiel.de){target="_blank"})  
 Several sailing campaigns including ocean crossings  
 Holder of boat driver, safety and radio certificates  
 
 2006 - 2009  
-Founder and Chairman of [Growtogether e.V](www.growtogether.wordpress.com){target="_blank"}  
+Founder and Chairman of [Growtogether e.V](https://www.growtogether.wordpress.com){target="_blank"}  
 Association to support developmental cooperation
 
 <div style="margin-bottom:50px;">
