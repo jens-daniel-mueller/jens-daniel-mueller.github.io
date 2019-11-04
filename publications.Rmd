@@ -111,27 +111,27 @@ Müller J.D.
 
 Müller J.D.  
 **Ocean Acidification in the Baltic Sea - Involved Processes, Metrology of pH in Brachish Waters, and Calcification under Fluctuating Conditions**  
-[Talk](presentations/190527_Mueller_Jens_Wasser.pdf) | Wasser 2019 | Erfurt | 27.05.2019  
+[Talk](presentations/190527_Mueller_Jens_Wasser.pdf){target="_blank"} | Wasser 2019 | Erfurt | 27.05.2019  
 
 Müller J.D.  
 **Ozeanversauerung in der Ostsee: pH-Veränderungen mit neuer Messtechnik und Langzeit-Studien auf der Spur**  
-[Talk](presentations/190219_Mueller_Jens_Briese.pdf) | Briese award ceremony | Warnemünde | 19.02.2019  
+[Talk](presentations/190219_Mueller_Jens_Briese.pdf){target="_blank"} | Briese award ceremony | Warnemünde | 19.02.2019  
 
 ### 2018
 
 Müller J.D., Schneider B., Rehder G.  
 **Long-term alkalinity increase in the Baltic Sea buffers CO~2~-induced acidification**  
-[Talk](presentations/180212_Mueller_AT-Trends_Ocean_Sciences_no_appendix.pdf) | Ocean Sciences Meeting | Portland | 12.02.2018
+[Talk](presentations/180212_Mueller_AT-Trends_Ocean_Sciences_no_appendix.pdf){target="_blank"} | Ocean Sciences Meeting | Portland | 12.02.2018
 
 ### 2017
 
 Müller J.D., Bastkowski F., Schneider B., Rehder G.  
 **Updating pH measurements in brackish waters: Characterization of the indicator dye m-Cresol purple based on newly available TRIS buffers**  
-[Poster](presentations/170613_Mueller_BSSC_pH_Poster.pdf) | Baltic Sea Science Congress | Rostock | 17.06.2017
+[Poster](presentations/170613_Mueller_BSSC_pH_Poster.pdf){target="_blank"} | Baltic Sea Science Congress | Rostock | 17.06.2017
 
 Müller J.D., Schneider B.  
 **High-resolution pCO~2~ measurements on a cargo ship in the Baltic Sea: Patterns and trends derived from a synoptic look at 13 years of observations**  
-[Poster](presentations/170612_Mueller_BSSC_pCO2_Poster.pdf) | Baltic Sea Science Congress | Rostock | 17.06.2017.
+[Poster](presentations/170612_Mueller_BSSC_pCO2_Poster.pdf){target="_blank"} | Baltic Sea Science Congress | Rostock | 17.06.2017.
 
 ### 2016
 
