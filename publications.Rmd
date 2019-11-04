@@ -47,11 +47,11 @@ Front. Mar. Sci. | [doi:10.3389/fmars.2019.00400](https://www.frontiersin.org/ar
 ### 2018
 
 Müller, J.D. and Rehder, G. (2018)  
-**Metrology of pH measurements in brackish waters - part 2: Experimental characterization of purified m-Cresol Purple for spectrophotometric pHT measurements**  
+**Metrology of pH measurements in brackish waters - part 2: Experimental characterization of purified m-Cresol Purple for spectrophotometric pH~T~ measurements**  
 Front. Mar. Sci. | [doi:10.3389/fmars.2018.00177](https://www.frontiersin.org/articles/10.3389/fmars.2018.00177/full){target="_blank"}
 
 Müller, J.D., Bastkowski, F., Sander, B., Seitz, S., Turner, D.R., Dickson, A.G., and Rehder, G. (2018)  
-**Metrology for pH measurements in brackish waters – part 1: Extending electrochemical pHT measurements of TRIS buffers to salinities 5 – 20**  
+**Metrology for pH measurements in brackish waters – part 1: Extending electrochemical pH~T~ measurements of TRIS buffers to salinities 5 – 20**  
 Front. Mar. Sci. | [doi:10.3389/fmars.2018.00176](https://www.frontiersin.org/articles/10.3389/fmars.2018.00176/full){target="_blank"}
 
 Staudinger, C., ... , Müller, J.D., et al. (2018)  
@@ -107,7 +107,7 @@ Springer International Publishing | [doi:10.1007/978-3-319-61699-5](https://www.
 
 Müller J.D.  
 **Neue pH-Messmethode ermöglicht erstmals die Überwachung weiter Ostseebereiche**  
-[Talk](presentations/190604_BSH_MUS_mueller.pdf) | BSH Meeresumwelt-Symposium 2019 | Hamburg | 04.06.2019  
+[Talk](presentations/190604_BSH_MUS_mueller.pdf){target="_blank"} | BSH Meeresumwelt-Symposium 2019 | Hamburg | 04.06.2019  
 
 Müller J.D.  
 **Ocean Acidification in the Baltic Sea - Involved Processes, Metrology of pH in Brachish Waters, and Calcification under Fluctuating Conditions**  
@@ -174,7 +174,7 @@ Talk | ASLO 2015 - Aquatic Sciences Meeting | Grenada | 23.02.2015
 May 2018 | Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
 Grade: with honors (summa cum laude)  
 Supervisor: Prof. Dr. Gregor Rehder | Mentor: Dr. Bernd Schneider  
-[pdf](http://rosdok.uni-rostock.de/resolve/id/rosdok_disshab_0000001963){target="_blank"}
+[doi:10.18453/rosdok_id00002303](http://rosdok.uni-rostock.de/resolve/id/rosdok_disshab_0000001963){target="_blank"}
 
 <div style="margin-bottom:50px;">
 </div>
