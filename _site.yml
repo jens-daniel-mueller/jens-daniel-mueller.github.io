@@ -18,7 +18,7 @@ navbar:
     - text: "Code repos"
       menu:
         - text: "Diurnal pCO2 variability"
-          href: https://jens-daniel-mueller.github.io/Diurnal_pCO2_variability_Baltic/Finnmaid.html)
+          href: https://jens-daniel-mueller.github.io/Diurnal_pCO2_variability_Baltic
   right:
     - icon: fa-envelope fa-lg
       href: mailto:jens.mueller@io-warnemuende.de
