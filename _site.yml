@@ -15,8 +15,10 @@ navbar:
       href: about.html
     - text: "Contact"
       href: contact.html
-    - text: "Code repos"
+    - text: "Work/Code in progress"
       menu:
+        - text: "BloomSail"
+          href: https://jens-daniel-mueller.github.io/BloomSail
         - text: "Diurnal pCO2 variability"
           href: https://jens-daniel-mueller.github.io/Diurnal_pCO2_variability_Baltic
   right:
