@@ -21,6 +21,8 @@ navbar:
           href: https://jens-daniel-mueller.github.io/BloomSail
         - text: "Diurnal pCO2 variability"
           href: https://jens-daniel-mueller.github.io/Diurnal_pCO2_variability_Baltic
+        - text: "Baltic productivity trends"
+          href: https://jens-daniel-mueller.github.io/Baltic_Productivity
   right:
     - icon: fa-envelope fa-lg
       href: mailto:jens.mueller@io-warnemuende.de
