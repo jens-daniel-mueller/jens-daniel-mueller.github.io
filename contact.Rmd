@@ -4,14 +4,14 @@ title: "Contact"
 
 
 Dr. Jens Daniel M&uuml;ller  
-Leibniz Institute for Baltic Sea Research (IOW)  
-Seestr. 15  
-18119 Rostock  
-Germany  
+
+Environmental Physics Group  
+ETH Zürich  
+http://www.up.ethz.ch  
 
 ***
 
-Mail: [jens.mueller@io-warnemuende.de](mailto:jens.mueller@io-warnemuende.de)  
+Mail: [jensdaniel.mueller@usys.ethz.ch](mailto:jensdaniel.mueller@usys.ethz.ch)  
 
 Twitter: [Jens_D_Mueller](https://twitter.com/Jens_D_Mueller)
 
@@ -27,25 +27,17 @@ But the best is: Drop in and let's have a coffee:
 library(leaflet)
 library(tidyverse)
 
-IOW <- paste(sep = "<br/>",
-  "<b><a href='https://www.io-warnemuende.de/en_index.html'>Leibniz Institute for Baltic Sea Research (IOW)</a></b>",
-  "Seestraße 15",
-  "18119 Rostock, Germany",
-  "here: Monday - Tuesday"
+ETHZ <- paste(sep = "<br/>",
+  "<b><a href='https://up.ethz.ch/'>Environmetal Physics, ETH Zurich</a></b>",
+  "Universitaetsstr 16",
+  "8006 Zurich, SWitzerland"
 )
 
-CEN <- paste(sep = "<br/>",
-  "<b><a href='https://www.ifm.uni-hamburg.de/en.html'>Institute of Oceanography (IfM)</a></b>",
-  "Bundesstr. 53",
-  "20146 Hamburg, Germany",
-  "here: Wednesday - Thursday"
-)
-
-places <- tibble(lat = c(54.179899, 53.567899), lon=c(12.081038, 9.975583), label=c(IOW, CEN))
+places <- tibble(lat = c(47.3791923), lon=c(8.5484717), label=c(ETHZ))
 
 places %>% 
   leaflet() %>%
-  setView(lng = 11.15, lat = 54, zoom = 8) %>% 
+  setView(lng = 9, lat = 47, zoom = 8) %>% 
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addPopups(lng=  ~lon, lat= ~lat, ~label,
     options = popupOptions(closeButton = FALSE)

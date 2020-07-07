@@ -25,7 +25,7 @@ navbar:
           href: https://jens-daniel-mueller.github.io/Baltic_Productivity
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:jens.mueller@io-warnemuende.de
+      href: mailto:jensdaniel.mueller@usys.ethz.ch
     - icon: fa-twitter fa-lg
       href: https://twitter.com/Jens_D_Mueller
     - icon: fa-github fa-lg

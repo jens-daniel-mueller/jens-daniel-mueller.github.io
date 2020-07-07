@@ -15,7 +15,7 @@ title: "Marine Biogeochemistry Seasoned with Data Science"
 
 ***
 
-Hi there, my name is Jens and I am currently PostDoc at the Leibniz Institute for Baltic Sea research Warnemünde, Germany. My scientific focus is on marine biogeochemistry, meaning I try to understand how organisms - including homo technicus - shape their chemical environment, and vice versa. To do so, I enjoy wrangling, visualizing, synthesizing and thereby understanding data obtained mainly from autonomous observatories such as voluntary observing ships, floats and buoys. If the CO~2~ content of seawater is involved in one way or another, this makes me even more happy.
+Hi there, my name is Jens and I recently started my second PostDoc at ETH Zurich. My scientific focus is on marine biogeochemistry, meaning I try to understand how organisms - including homo technicus - shape their chemical environment, and vice versa. To do so, I enjoy wrangling, visualizing, synthesizing and thereby understanding data obtained mainly from autonomous observatories such as voluntary observing ships, floats and buoys. If the CO~2~ content of seawater is involved in one way or another, this makes me even more happy.
 
 Want to know more? Come in and have a look!
 
