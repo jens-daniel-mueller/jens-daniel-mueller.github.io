@@ -9,6 +9,7 @@ output:
     toc_depth: 3
 ---
 
+```{=html}
 <style type="text/css">
 
 h1.title {
@@ -16,198 +17,230 @@ h1.title {
 }
 
 </style>
+```
+<center>![](img/banners/papers_website_pic_wide_bw.jpg){width="100%"}</center>
 
-<center>
-
-![](img/banners/papers_website_pic_wide_bw.jpg){width=100%}
-
-</center>
-
-<div style="margin-bottom:50px;">
-</div>
+::: {style="margin-bottom:50px;"}
+:::
 
 Regularly updated publication lists are also hosted on:
 
-[Google scholar](https://scholar.google.de/citations?user=HUngozUAAAAJ&hl=de){target="_blank"} (includes citations)  
-[OrcID](https://orcid.org/0000-0003-3137-0883){target="_blank"}
+[Google scholar](https://scholar.google.de/citations?user=HUngozUAAAAJ&hl=de){target="_blank"} (includes citations)\
+[ORCID](https://orcid.org/0000-0003-3137-0883){target="_blank"}
 
-<div style="margin-bottom:50px;">
-</div>
+::: {style="margin-bottom:50px;"}
+:::
 
-***
+------------------------------------------------------------------------
 
 ## Peer-reviewed articles
 
+### 2023
+
+Müller, J. D., Gruber, N., Carter, B. R., Feely, R. A., Ishii, M., Lange, N., et al. (2023). **Decadal Trends in the Oceanic Storage of Anthropogenic Carbon from 1994 to 2014** (accepted, AGU Advances). <https://doi.org/10.22541/essoar.167525217.76035050/v1>
+
+Gruber, N., Bakker, D. C. E., DeVries, T., Gregor, L., Hauck, J., Landschützer, P., et al. (2023). **Trends and variability in the ocean carbon sink**. Nature Reviews Earth & Environment, 1--16. <https://doi.org/10.1038/s43017-022-00381-x>
+
+Kappel, E., Costello, M., Galgani, L., Gordó-Vilaseca, C., Govindarajan, A., Kouhi, S., et al. (2023). **Introduction to Frontiers in Ocean Observing**. Oceanography. <https://doi.org/10.5670/oceanog.2023.s1.1>
+
+### 2022
+
+Dai, M., Su, J., Zhao, Y., Hofmann, E. E., Cao, Z., Cai, W.-J., et al. (2022). **Carbon Fluxes in the Coastal Ocean: Synthesis, Boundary Processes, and Future Trends.** Annual Review of Earth and Planetary Sciences, 50(1), 593--626. <https://doi.org/10.1146/annurev-earth-032320-090746>
+
+Lauvset, S. K., Lange, N., Tanhua, T., Bittig, H. C., Olsen, A., Kozyr, A., et al. (2022). **GLODAPv2.2022: the latest version of the global interior ocean biogeochemical data product.** Earth System Science Data, 14(12), 5543--5572. <https://doi.org/10.5194/essd-14-5543-2022>
+
+Poulter, B., Bastos, A., Canadell, J., Ciais, P., Gruber, N., Hauck, J., et al. (2022). **Inventorying Earth's Land and Ocean Greenhouse Gases**. Eos, 103. <https://doi.org/10.1029/2022eo179084>
+
+### 2021
+
+Honkanen, M., Müller, J. D., Seppälä, J., Rehder, G., Kielosto, S., Ylöstalo, P., et al. (2021). **The diurnal cycle of pCO2 in the coastal region of the Baltic Sea**. Ocean Science, 17(6), 1657--1675. <https://doi.org/10.5194/os-17-1657-2021>
+
+Jacobs, E., Bittig, H. C., Gräwe, U., Graves, C. A., Glockzin, M., Müller, J. D., et al. (2021). **Upwelling-induced trace gas dynamics in the Baltic Sea inferred from 8 years of autonomous measurements on a ship of opportunity**. Biogeosciences, 18(8), 2679--2709. <https://doi.org/10.5194/bg-18-2679-2021>
+
+Müller, J. D., Schneider, B., Gräwe, U., Fietzek, P., Wallin, M. B., Rutgersson, A., et al. (2021). **Cyanobacteria net community production in the Baltic Sea as inferred from profiling pCO2 measurements.** Biogeosciences, 18(17), 4889--4917. <https://doi.org/10.5194/bg-18-4889-2021>
+
+Sanders, T., Thomsen, J., Müller, J. D., Rehder, G., & Melzner, F. (2021). **Decoupling salinity and carbonate chemistry: low calcium ion concentration rather than salinity limits calcification in Baltic Sea mussels**. Biogeosciences, 18(8), 2573--2590. <https://doi.org/10.5194/bg-18-2573-2021>
+
 ### 2019
 
-Wanninkhof, R., ... , Müller J.D., et al. (2019)  
-**A Surface Ocean CO~2~ Reference Network, SOCONET and Associated Marine Boundary Layer CO~2~ Measurements**  
-Front. Mar. Sci. | [doi:10.3389/fmars.2019.00400](https://www.frontiersin.org/article/10.3389/fmars.2019.00400){target="_blank"}
+Wanninkhof, R., Pickers, P. A., Omar, A. M., Sutton, A., Murata, A., Olsen, A., et al. (2019). **A Surface Ocean CO2 Reference Network, SOCONET and Associated Marine Boundary Layer CO2 Measurements**. Frontiers in Marine Science, 6. <https://doi.org/10.3389/fmars.2019.00400>
 
 ### 2018
 
-Müller, J.D. and Rehder, G. (2018)  
-**Metrology of pH measurements in brackish waters - part 2: Experimental characterization of purified m-Cresol Purple for spectrophotometric pH~T~ measurements**  
-Front. Mar. Sci. | [doi:10.3389/fmars.2018.00177](https://www.frontiersin.org/articles/10.3389/fmars.2018.00177/full){target="_blank"}
+Müller, Jens D., & Rehder, G. (2018). **Metrology of pH Measurements in Brackish Waters---Part 2: Experimental Characterization of Purified meta-Cresol Purple for Spectrophotometric pHT Measurements**. Frontiers in Marine Science, 5, 177. <https://doi.org/10.3389/fmars.2018.00177>
 
-Müller, J.D., Bastkowski, F., Sander, B., Seitz, S., Turner, D.R., Dickson, A.G., and Rehder, G. (2018)  
-**Metrology for pH measurements in brackish waters – part 1: Extending electrochemical pH~T~ measurements of TRIS buffers to salinities 5 – 20**  
-Front. Mar. Sci. | [doi:10.3389/fmars.2018.00176](https://www.frontiersin.org/articles/10.3389/fmars.2018.00176/full){target="_blank"}
+Müller, J. D., Bastkowski, F., Sander, B., Seitz, S., Turner, D. R., Dickson, A. G., & Rehder, G. (2018). **Metrology for pH Measurements in Brackish Waters---Part 1: Extending Electrochemical pHT Measurements of TRIS Buffers to Salinities 5--20**. Frontiers in Marine Science, 5, 176. <https://doi.org/10.3389/fmars.2018.00176>
 
-Staudinger, C., ... , Müller, J.D., et al. (2018)  
-**A versatile optode system for oxygen, carbon dioxide, and pH measurements in seawater with integrated battery and logger**  
-Limnol. Oceanogr. Methods, 16: 459-473 | [doi:10.1002/lom3.10260](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10260){target="_blank"}
+Müller, J. D., Schneider, B., Aßmann, S., & Rehder, G. (2018). **Spectrophotometric pH measurements in the presence of dissolved organic matter and hydrogen sulfide: Perturbations of spec pH measurements**. Limnology and Oceanography: Methods, 16(2), 68--82. <https://doi.org/10.1002/lom3.10227>
 
-Wahl, M., Schneider Covachã, S., Saderne, V., Hiebenthal, C., Müller, J.D., Pansch, C., et al. (2018)  
-**Macroalgae may mitigate ocean acidification effects on mussel calcification by increasing pH and its fluctuations**  
-Limnol. Oceanogr., 63: 3-21 | [doi:10.1002/lno.10608](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.10608){target="_blank"}
+Staudinger, C., Strobl, M., Fischer, J. P., Thar, R., Mayr, T., Aigner, D., et al. (2018). **A versatile optode system for oxygen, carbon dioxide, and pH measurements in seawater with integrated battery and logger: A versatile optode system for O 2 , CO 2 , and pH** . Limnology and Oceanography: Methods, 16(7), 459--473. <https://doi.org/10.1002/lom3.10260>
+
+Wahl, M., Schneider Covachã, S., Saderne, V., Hiebenthal, C., Müller, J. D., Pansch, C., & Sawall, Y. (2018). **Macroalgae may mitigate ocean acidification effects on mussel calcification by increasing pH and its fluctuations: Biogenic fluctuations mitigate OA effects**. Limnology and Oceanography, 63(1), 3--21. <https://doi.org/10.1002/lno.10608>
 
 ### 2017
 
-Müller, J.D., Schneider, B., Aßmann, S., and Rehder, G. (2017)  
-**Spectrophotometric pH measurements in the presence of dissolved organic matter and hydrogen sulfide**  
-Limnol. Oceanogr. Methods, 16: 68-82 | [doi:10.1002/lom3.10227](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10227){target="_blank"}
+Fritzsche, E., Gruber, P., Schutting, S., P. Fischer, J., Strobl, M., D. Müller, J., et al. (2017). **Highly sensitive poisoning-resistant optical carbon dioxide sensors for environmental monitoring**. Analytical Methods, 9(1), 55--65. <https://doi.org/10.1039/C6AY02949C>
 
-Fritzsche, E., Gruber, P., Schutting, S., Fischer, J. P., Strobl, M., Müller, J.D., et al. (2017)  
-**Highly sensitive poisoning-resistant optical carbon dioxide sensors for environmental monitoring**  
-Anal. Methods, 9: 55–65 | [doi:10.1039/C6AY02949C](https://pubs.rsc.org/en/content/articlelanding/2017/ay/c6ay02949c#!divAbstract){target="_blank"}
+Saderne, V., Fietzek, P., Müller, J. D., Körtzinger, A., & Hiebenthal, C. (2017). **Intense pCO2 and [O2] Oscillations in a Mussel-Seagrass Habitat: Implications for Calcification**. Biogeosciences Discussions, 1--33. <https://doi.org/10.5194/bg-2017-351>
 
 ### 2016
 
-Müller, J.D., Schneider, B., and Rehder, G. (2016)  
-**Long-term alkalinity trends in the Baltic Sea and their implications for CO~2~-induced acidification**  
-Limnol. Oceanogr., 61: 1984–2002 | [doi:10.1002/lno.10349](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.10349){target="_blank"}
+Müller, J. D., Schneider, B., & Rehder, G. (2016). **Long-term alkalinity trends in the Baltic Sea and their implications for CO2-induced acidification**. Limnology and Oceanography, 61(6), 1984--2002. <https://doi.org/10.1002/lno.10349>
 
 ### 2015
 
-Wahl, M., Buchholz, B., Winde, V., Golomb, D., Guy-Haim, T., Müller, J., et al. (2015)  
-**A mesocosm concept for the simulation of near-natural shallow underwater climates: The Kiel Outdoor Benthocosms (KOB)**  
-Limnol. Oceanogr. Methods, 13: 651–663. | [doi:10.1002/lom3.10055](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10055){target="_blank"}
+Schulz, J., Möller, K. O., Bracher, A., Hieronymi, M., Cisewski, B., Zielinski, O., et al. (2015). **Aquatische Optische Technologien in Deutschland**. Marine Science Reports - Meereswissenschaftliche Berichte, 97, 1--83. <https://doi.org/10.12754/msr-2015-97>
 
-<div style="margin-bottom:50px;">
-</div>
+Wahl, Martin, Buchholz, B., Winde, V., Golomb, D., Guy-Haim, T., Müller, J., et al. (2015). **A mesocosm concept for the simulation of near-natural shallow underwater climates: The Kiel Outdoor Benthocosms (KOB): Mesocosms with natural fluctuations and delta treatments.** Limnology and Oceanography: Methods, 13(11), 651--663. <https://doi.org/10.1002/lom3.10055>
 
-***
+::: {style="margin-bottom:50px;"}
+:::
 
+------------------------------------------------------------------------
+
+### Manuscripts in review
+
+DeVries, T., Yamamoto, Kana, Wanninkhof, R., Gruber, N., Hauck, J., & Müller, J. D. (2023). **Magnitude, trends, and variability of the global ocean carbon sink from 1985-2018**. in review, Global Biogeochemical Cycles.
+
+Perez, F. F., Becker, M., Goris, N., Gehlen, M., & Müller, J. D. (2023). **An assessment of CO2 storage and sea-air fluxes for the Atlantic Ocean and Mediterranean Sea between 1985 and 2018**. in review, Global Biogeochemical Cycles.
+
+Resplandy, L., Hogikyan, A., Bange, H. W., Bianchi, D., Weber, T. S., Cai, W.-J., et al. (2023). **A Synthesis of Global Coastal Ocean Greenhouse Gas Fluxes** (preprint). in review, Global Biogeochemical Cycles. <https://doi.org/10.22541/essoar.168182303.39621839/v1>
+
+Rodgers, K., Schwinger, J., Fassbender, A., Landschützer, P., Yamaguchi, R., Frenzel, H., et al. (2023). **Seasonal variability of the surface ocean carbon cycle: a synthesis** (in review, Global Biogeochemical Cycles). Preprints. <https://doi.org/10.22541/essoar.168167394.47800179/v1>
+
+Terhaar, J., Goris, N., Müller, J. D., DeVries, T., Gruber, N., Hauck, J., et al. (2023). **Assessment of Global Ocean Biogeochemistry Models for Ocean Carbon Sink Estimates in RECCAP2 and Recommendations for Future Studies** (in review, Global Biogeochemical Cycles). Preprints. <https://doi.org/10.22541/essoar.168394734.41886821/v1>
+
+Yasunaka, S., Manizza, M., Terhaar, J., Olsen, A., Yamaguchi, R., Landschützer, P., et al. (2023). **An assessment of CO2 uptake in the Arctic Ocean from 1985 to 2018** (preprint). in review, Global Biogeochemical Cycles. <https://doi.org/10.22541/essoar.168476524.42265823/v1>
+
+::: {style="margin-bottom:50px;"}
+:::
+
+------------------------------------------------------------------------
 
 ## Books
 
-Schneider, B. and Müller, J.D. (2017)  
-**Biogeochemical Transformations in the Baltic Sea: Observations Through Carbon Dioxide Glasses**  
-Springer International Publishing | [doi:10.1007/978-3-319-61699-5](https://www.springer.com/de/book/9783319616988){target="_blank"}
+Schneider, B. and Müller, J.D. (2017)\
+**Biogeochemical Transformations in the Baltic Sea: Observations Through Carbon Dioxide Glasses**\
+Springer International Publishing \| [doi:10.1007/978-3-319-61699-5](https://www.springer.com/de/book/9783319616988){target="_blank"}
 
-<div style="margin-bottom:50px;">
-</div>
+::: {style="margin-bottom:50px;"}
+:::
 
-***
+------------------------------------------------------------------------
 
-## Selected Talks and Posters
+## Selected Talks and Posters (updated until 2019)
 
 ### 2019
 
-Müller J.D.  
-**Neue pH-Messmethode ermöglicht erstmals die Überwachung weiter Ostseebereiche**  
-[Talk](presentations/190604_BSH_MUS_mueller.pdf){target="_blank"} | BSH Meeresumwelt-Symposium 2019 | Hamburg | 04.06.2019  
+Müller J.D.\
+**Neue pH-Messmethode ermöglicht erstmals die Überwachung weiter Ostseebereiche**\
+[Talk](presentations/190604_BSH_MUS_mueller.pdf){target="_blank"} \| BSH Meeresumwelt-Symposium 2019 \| Hamburg \| 04.06.2019
 
-Müller J.D.  
-**Ocean Acidification in the Baltic Sea - Involved Processes, Metrology of pH in Brachish Waters, and Calcification under Fluctuating Conditions**  
-[Talk](presentations/190527_Mueller_Jens_Wasser.pdf){target="_blank"} | Wasser 2019 | Erfurt | 27.05.2019  
+Müller J.D.\
+**Ocean Acidification in the Baltic Sea - Involved Processes, Metrology of pH in Brachish Waters, and Calcification under Fluctuating Conditions**\
+[Talk](presentations/190527_Mueller_Jens_Wasser.pdf){target="_blank"} \| Wasser 2019 \| Erfurt \| 27.05.2019
 
-Müller J.D.  
-**Ozeanversauerung in der Ostsee: pH-Veränderungen mit neuer Messtechnik und Langzeit-Studien auf der Spur**  
-[Talk](presentations/190219_Mueller_Jens_Briese.pdf){target="_blank"} | Briese award ceremony | Warnemünde | 19.02.2019  
+Müller J.D.\
+**Ozeanversauerung in der Ostsee: pH-Veränderungen mit neuer Messtechnik und Langzeit-Studien auf der Spur**\
+[Talk](presentations/190219_Mueller_Jens_Briese.pdf){target="_blank"} \| Briese award ceremony \| Warnemünde \| 19.02.2019
 
 ### 2018
 
-Müller J.D., Schneider B., Rehder G.  
-**Long-term alkalinity increase in the Baltic Sea buffers CO~2~-induced acidification**  
-[Talk](presentations/180212_Mueller_AT-Trends_Ocean_Sciences_no_appendix.pdf){target="_blank"} | Ocean Sciences Meeting | Portland | 12.02.2018
+Müller J.D., Schneider B., Rehder G.\
+**Long-term alkalinity increase in the Baltic Sea buffers CO~2~-induced acidification**\
+[Talk](presentations/180212_Mueller_AT-Trends_Ocean_Sciences_no_appendix.pdf){target="_blank"} \| Ocean Sciences Meeting \| Portland \| 12.02.2018
 
 ### 2017
 
-Müller J.D., Bastkowski F., Schneider B., Rehder G.  
-**Updating pH measurements in brackish waters: Characterization of the indicator dye m-Cresol purple based on newly available TRIS buffers**  
-[Poster](presentations/170613_Mueller_BSSC_pH_Poster.pdf){target="_blank"} | Baltic Sea Science Congress | Rostock | 17.06.2017
+Müller J.D., Bastkowski F., Schneider B., Rehder G.\
+**Updating pH measurements in brackish waters: Characterization of the indicator dye m-Cresol purple based on newly available TRIS buffers**\
+[Poster](presentations/170613_Mueller_BSSC_pH_Poster.pdf){target="_blank"} \| Baltic Sea Science Congress \| Rostock \| 17.06.2017
 
-Müller J.D., Schneider B.  
-**High-resolution pCO~2~ measurements on a cargo ship in the Baltic Sea: Patterns and trends derived from a synoptic look at 13 years of observations**  
-[Poster](presentations/170612_Mueller_BSSC_pCO2_Poster.pdf){target="_blank"} | Baltic Sea Science Congress | Rostock | 17.06.2017.
+Müller J.D., Schneider B.\
+**High-resolution pCO~2~ measurements on a cargo ship in the Baltic Sea: Patterns and trends derived from a synoptic look at 13 years of observations**\
+[Poster](presentations/170612_Mueller_BSSC_pCO2_Poster.pdf){target="_blank"} \| Baltic Sea Science Congress \| Rostock \| 17.06.2017.
 
 ### 2016
 
-Müller J.D., Schneider B., Rehder G.  
-**Long-term alkalinity trends in the Baltic Sea and their implications for CO~2~-induced acidification**  
-Talk and Poster | 1st Baltic Earth Conference | Nida | 17.06.2016
+Müller J.D., Schneider B., Rehder G.\
+**Long-term alkalinity trends in the Baltic Sea and their implications for CO~2~-induced acidification**\
+Talk and Poster \| 1st Baltic Earth Conference \| Nida \| 17.06.2016
 
-Müller J.D., Aßmann S., Turner D., Schneider B., Rehder G.  
-**PINBAL: Development of a spectrophotometric pH-measurement system for monitoring in the Baltic Sea**  
-Talk | Quasimeme Ocean Acidification Workshop | Southampton | 04.02.2016
+Müller J.D., Aßmann S., Turner D., Schneider B., Rehder G.\
+**PINBAL: Development of a spectrophotometric pH-measurement system for monitoring in the Baltic Sea**\
+Talk \| Quasimeme Ocean Acidification Workshop \| Southampton \| 04.02.2016
 
 ### 2015
 
-Müller J., Schneider B., Rehder G.  
-**Long-term alkalinity trends in the Baltic Sea and their implications for CO~2~-induced acidification**  
-Talk | IOW symposium “Little salts and many protons: Acid-Base System Studies in the Baltic Sea” | 04.12.2015
+Müller J., Schneider B., Rehder G.\
+**Long-term alkalinity trends in the Baltic Sea and their implications for CO~2~-induced acidification**\
+Talk \| IOW symposium "Little salts and many protons: Acid-Base System Studies in the Baltic Sea" \| 04.12.2015
 
-Müller J.D., Schneider B., Rehder G.  
-**Take time! Long-term Alkalinity Trends in the Baltic Sea and their Implications for CO~2~-induced Acidification**  
-Invited Talk | HZG Seminar talk | Helmholtz-Zentrum Geesthacht | 27.11.2015  
+Müller J.D., Schneider B., Rehder G.\
+**Take time! Long-term Alkalinity Trends in the Baltic Sea and their Implications for CO~2~-induced Acidification**\
+Invited Talk \| HZG Seminar talk \| Helmholtz-Zentrum Geesthacht \| 27.11.2015
 
-Müller J., Schneider B., Aßmann S., Hammer K., Rehder G.  
-**Spectrophotometric pH measurements in the Baltic Sea: necessity, challenges and solutions**  
-Talk | Wasser 2015 | Schwerin | 11.05.2015  
+Müller J., Schneider B., Aßmann S., Hammer K., Rehder G.\
+**Spectrophotometric pH measurements in the Baltic Sea: necessity, challenges and solutions**\
+Talk \| Wasser 2015 \| Schwerin \| 11.05.2015
 
-Müller J., Schneider B., Aßmann S., Hammer K., Rehder G.  
-**Spectrophotometric pH measurements in the Baltic Sea: necessity, challenges and solutions**  
-Talk | ASLO 2015 - Aquatic Sciences Meeting | Grenada | 23.02.2015
+Müller J., Schneider B., Aßmann S., Hammer K., Rehder G.\
+**Spectrophotometric pH measurements in the Baltic Sea: necessity, challenges and solutions**\
+Talk \| ASLO 2015 - Aquatic Sciences Meeting \| Grenada \| 23.02.2015
 
-<div style="margin-bottom:50px;">
-</div>
+::: {style="margin-bottom:50px;"}
+:::
 
-
-
-***
+------------------------------------------------------------------------
 
 ## PhD Thesis
 
-**Ocean Acidification in the Baltic Sea: Involved Processes, Metrology of pH in Brackish Waters, and Calcification under Fluctuating Conditions**  
-May 2018 | Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
-Grade: with honors (summa cum laude)  
-Supervisor: Prof. Dr. Gregor Rehder | Mentor: Dr. Bernd Schneider  
+**Ocean Acidification in the Baltic Sea: Involved Processes, Metrology of pH in Brackish Waters, and Calcification under Fluctuating Conditions**\
+May 2018 \| Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)\
+Grade: with honors (summa cum laude)\
+Supervisor: Prof. Dr. Gregor Rehder \| Mentor: Dr. Bernd Schneider\
 [doi:10.18453/rosdok_id00002303](http://rosdok.uni-rostock.de/resolve/id/rosdok_disshab_0000001963){target="_blank"}
 
-<div style="margin-bottom:50px;">
-</div>
+::: {style="margin-bottom:50px;"}
+:::
 
-
-
-***
-
+------------------------------------------------------------------------
 
 ## Patents
 
 ### Pending
-Topic: pH methodology  
+
+Topic: pH methodology\
 Status: German patent registration on priorization stage, publication of registration expected mid-2020
 
-<div style="margin-bottom:50px;">
-</div>
+::: {style="margin-bottom:50px;"}
+:::
 
-
-
-***
-
+------------------------------------------------------------------------
 
 ## Reviewer activity
 
 I've reviewed manuscripts for:
 
-[Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science#){target="_blank"}  
-[Marine Chemistry](https://www.journals.elsevier.com/marine-chemistry){target="_blank"}  
-[Limnology and Oceanography: Methods](https://www.aslo.org/aslo-publications/limnology-and-oceanography-methods/){target="_blank"}
+[Nature communications](https://www.nature.com/ncomms/){target="_blank"}\
+[Marine Chemistry](https://www.journals.elsevier.com/marine-chemistry){target="_blank"}\
+[Limnology and Oceanography: Methods](https://www.aslo.org/aslo-publications/limnology-and-oceanography-methods/){target="_blank"}\
+[Ocean Science](https://www.ocean-science.net/){target="_blank"}\
+[Earth System Science Data](https://essd.copernicus.org/){target="_blank"}\
+[Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science#){target="_blank"}
 
+::: {style="margin-bottom:50px;"}
+:::
 
-<div style="margin-bottom:50px;">
-</div>
+------------------------------------------------------------------------
 
-***
+## Editor activity
+
+I've acted as a guest editor for the
+
+[SUPPLEMENT of Oceanography \| Frontiers in Ocean Observing: Emerging Technologies for Understanding and Managing a Changing Ocean](https://tos.org/oceanography/issue/volume-36-supplement-1){target="_blank"}
+
+::: {style="margin-bottom:50px;"}
+:::
+
+------------------------------------------------------------------------
