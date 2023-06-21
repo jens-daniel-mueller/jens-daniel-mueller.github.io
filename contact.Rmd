@@ -37,7 +37,7 @@ places <- tibble(lat = c(47.3791923), lon=c(8.5484717), label=c(ETHZ))
 
 places %>% 
   leaflet() %>%
-  setView(lng = 9, lat = 47, zoom = 8) %>% 
+  setView(lng = 8.7, lat = 47.3, zoom = 10) %>% 
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addPopups(lng=  ~lon, lat= ~lat, ~label,
     options = popupOptions(closeButton = FALSE)

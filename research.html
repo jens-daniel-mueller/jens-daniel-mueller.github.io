@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -14,24 +13,38 @@
 
 <title>Research foci</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -44,32 +57,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 
 
@@ -79,10 +68,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +84,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 60px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h2 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h3 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h4 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h5 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h6 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +121,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +133,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -182,11 +143,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,13 +176,12 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -212,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -234,6 +204,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -264,7 +235,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -292,7 +263,7 @@ $(document).ready(function () {
   <a href="contact.html">Contact</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Work/Code in progress
      
     <span class="caret"></span>
@@ -312,7 +283,7 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="mailto:jens.mueller@io-warnemuende.de">
+  <a href="mailto:jensdaniel.mueller@usys.ethz.ch">
     <span class="fa fa-envelope fa-lg"></span>
      
   </a>
@@ -334,7 +305,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -351,17 +322,41 @@ h1.title {
 
 </style>
 <center>
-<img src="img/banners/research_website_pic_wide_bw.jpg" style="width:100.0%" />
+<img src="img/banners/research_website_pic_wide_bw.jpg"
+style="width:100.0%" />
 </center>
 <div style="margin-bottom:50px;">
 
 </div>
 <div id="baltic-sea-biogeochemistry" class="section level2">
 <h2>Baltic Sea Biogeochemistry</h2>
-<div id="using-pco2-measurements-on-a-voluntary-observing-ship-to-quantify-net-community-production" class="section level3">
-<h3>Using pCO<sub>2</sub> Measurements on a Voluntary Observing Ship to Quantify Net Community Production</h3>
-<p>Since 2003 automated pCO<sub>2</sub> measurements are running on the VOS <a href="http://www.icos-infrastruktur.de/icos-d/komponenten/ozeane/vos/ostsee-c1/" target="_blank">Finnmaid</a> that commutes between Helsinki/Finland in the north and Travemünde/Germany in the south, thereby crossing the Central Baltic Sea several times a week. The resulting data set is available through <a href="https://www.socat.info/" target="_blank">SOCAT</a>, comprises by now more than three million pCO<sub>2</sub> measurements and allows us to determine the net community production with highest spatio-temporal resolution and unreached accuracy. We recently summarized the main findings from almost two decades of measurements in the book <a href="https://www.springer.com/de/book/9783319616988" target="_blank">Biogeochemical Transformations in the Baltic Sea: Observations Through Carbon Dioxide Glasses</a>.</p>
-<p>Next steps? Blend Finnmaid data with observations from biogeochemical ARGO floats, hydrographical GETM model data and eventually remote sensing Chlorophyll estimates to extend our understanding of net community production vertically and horizontally. Some of this is already in progress in the framework of <a href="https://www.io-warnemuende.de/integral-home.html" target="_blank">EU BONUS INTEGRAL</a>.</p>
+<div
+id="using-pco2-measurements-on-a-voluntary-observing-ship-to-quantify-net-community-production"
+class="section level3">
+<h3>Using pCO<sub>2</sub> Measurements on a Voluntary Observing Ship to
+Quantify Net Community Production</h3>
+<p>Since 2003 automated pCO<sub>2</sub> measurements are running on the
+VOS <a
+href="http://www.icos-infrastruktur.de/icos-d/komponenten/ozeane/vos/ostsee-c1/"
+target="_blank">Finnmaid</a> that commutes between Helsinki/Finland in
+the north and Travemünde/Germany in the south, thereby crossing the
+Central Baltic Sea several times a week. The resulting data set is
+available through <a href="https://www.socat.info/"
+target="_blank">SOCAT</a>, comprises by now more than three million
+pCO<sub>2</sub> measurements and allows us to determine the net
+community production with highest spatio-temporal resolution and
+unreached accuracy. We recently summarized the main findings from almost
+two decades of measurements in the book <a
+href="https://www.springer.com/de/book/9783319616988"
+target="_blank">Biogeochemical Transformations in the Baltic Sea:
+Observations Through Carbon Dioxide Glasses</a>.</p>
+<p>Next steps? Blend Finnmaid data with observations from biogeochemical
+ARGO floats, hydrographical GETM model data and eventually remote
+sensing Chlorophyll estimates to extend our understanding of net
+community production vertically and horizontally. Some of this is
+already in progress in the framework of <a
+href="https://www.io-warnemuende.de/integral-home.html"
+target="_blank">EU BONUS INTEGRAL</a>.</p>
 <center>
 <p><img src="img/research_foci/Finnmaid.jpg" style="width:80.0%" /></p>
 </center>
@@ -371,11 +366,24 @@ h1.title {
 <hr />
 </div>
 </div>
-<div id="interpreting-global-change-on-regional-scales" class="section level2">
+<div id="interpreting-global-change-on-regional-scales"
+class="section level2">
 <h2>Interpreting Global Change on Regional Scales</h2>
-<div id="alkalinity-rise-counteracted-acidification-in-the-baltic-sea" class="section level3">
+<div id="alkalinity-rise-counteracted-acidification-in-the-baltic-sea"
+class="section level3">
 <h3>Alkalinity Rise Counteracted Acidification in the Baltic Sea</h3>
-<p>The oceans take up Gigatonnes of anthropogenic CO<sub>2</sub> year by year, thereby getting more and more acidic. This process is simple chemistry at its best and therefore very predictable. Everywhere? Nope! In the Baltic Sea, I detected an <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.10349" target="_blank">increasing alkalinity trend that buffered acidification</a> as expected from the atmospheric CO<sub>2</sub> forcing by roughly 50%. How does it continue? No idea, because we do not yet completely understand the drivers for the past alkalinity rise. As the process might also inverse, we better start a reliable acidification monitoring soon and continue to keep an eye on the alkalinity, here and elsewhere in the world.</p>
+<p>The oceans take up Gigatonnes of anthropogenic CO<sub>2</sub> year by
+year, thereby getting more and more acidic. This process is simple
+chemistry at its best and therefore very predictable. Everywhere? Nope!
+In the Baltic Sea, I detected an <a
+href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.10349"
+target="_blank">increasing alkalinity trend that buffered
+acidification</a> as expected from the atmospheric CO<sub>2</sub>
+forcing by roughly 50%. How does it continue? No idea, because we do not
+yet completely understand the drivers for the past alkalinity rise. As
+the process might also inverse, we better start a reliable acidification
+monitoring soon and continue to keep an eye on the alkalinity, here and
+elsewhere in the world.</p>
 <center>
 <p><img src="img/research_foci/AT_trends.png" style="width:80.0%" /></p>
 </center>
@@ -387,11 +395,41 @@ h1.title {
 </div>
 <div id="measuring-ph-in-brackish-waters" class="section level2">
 <h2>Measuring pH in Brackish Waters</h2>
-<div id="achieving-oceanic-standards-through-a-coordinated-series-of-calibration-experiments" class="section level3">
-<h3>Achieving Oceanic Standards through a Coordinated Series of Calibration Experiments</h3>
-<p>We can measure ocean acidification since spectrophotometric pH measurements were introduced for oceanic conditions in the early 1990s. However, when I started my PhD we did not even have pH buffers for salinities below 20 and were still tracking pH in the Baltic Sea with glass electrodes (too low accuracy) at a few stations (too low spatial resolution) visited few times a year (too low temporal resolution). This had to be improved! With the help of the pH godfather himself, Dr. <a href="http://scrippsscholars.ucsd.edu/adickson" target="_blank">Andrew Dickson</a> (SCRIPPS), and Germany’s national metrological institute, <a href="https://www.ptb.de/cms/en/ptb/fachabteilungen/abt3/fb-31/ag-313.html#maincontent_forschung_header" target="_blank">PTB</a>, we produced a series of <a href="https://www.frontiersin.org/articles/10.3389/fmars.2018.00176/full" target="_blank">pH buffer solutions</a> in the salinity range 5-20, <a href="https://www.frontiersin.org/articles/10.3389/fmars.2018.00177/full" target="_blank">characterized the pH-dye m-Cresol purple</a> and made sure that <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10227" target="_blank">neither elevated amounts of dissolved organic matter nor hydrogen sulfide interfere</a> with the spectrophotometric method. A paper trilogy for a PhD degree? Deal!</p>
-<p>In addition to this rather fundamental chemical characterization work achieved in the framework of the EU project <a href="https://www.io-warnemuende.de/pinbal-home.html" target="_blank">BONUS PINBAL</a>, we developed also the flow-through pH analyzer <a href="https://www.kongsberg.com/maritime/products/mapping-systems/Chemical-Sensors-and-Analyzers/HydroFIA-pH/" target="_blank">CONTROS HydroFIA® pH</a> now available on the market.</p>
-<p>Ready, set, go out to sea (or sent your drones) and use that stuff!</p>
+<div
+id="achieving-oceanic-standards-through-a-coordinated-series-of-calibration-experiments"
+class="section level3">
+<h3>Achieving Oceanic Standards through a Coordinated Series of
+Calibration Experiments</h3>
+<p>We can measure ocean acidification since spectrophotometric pH
+measurements were introduced for oceanic conditions in the early 1990s.
+However, when I started my PhD we did not even have pH buffers for
+salinities below 20 and were still tracking pH in the Baltic Sea with
+glass electrodes (too low accuracy) at a few stations (too low spatial
+resolution) visited few times a year (too low temporal resolution). This
+had to be improved! With the help of the pH godfather himself, Dr. <a
+href="http://scrippsscholars.ucsd.edu/adickson" target="_blank">Andrew
+Dickson</a> (SCRIPPS), and Germany’s national metrological institute, <a
+href="https://www.ptb.de/cms/en/ptb/fachabteilungen/abt3/fb-31/ag-313.html#maincontent_forschung_header"
+target="_blank">PTB</a>, we produced a series of <a
+href="https://www.frontiersin.org/articles/10.3389/fmars.2018.00176/full"
+target="_blank">pH buffer solutions</a> in the salinity range 5-20, <a
+href="https://www.frontiersin.org/articles/10.3389/fmars.2018.00177/full"
+target="_blank">characterized the pH-dye m-Cresol purple</a> and made
+sure that <a
+href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10227"
+target="_blank">neither elevated amounts of dissolved organic matter nor
+hydrogen sulfide interfere</a> with the spectrophotometric method. A
+paper trilogy for a PhD degree? Deal!</p>
+<p>In addition to this rather fundamental chemical characterization work
+achieved in the framework of the EU project <a
+href="https://www.io-warnemuende.de/pinbal-home.html"
+target="_blank">BONUS PINBAL</a>, we developed also the flow-through pH
+analyzer <a
+href="https://www.kongsberg.com/maritime/products/mapping-systems/Chemical-Sensors-and-Analyzers/HydroFIA-pH/"
+target="_blank">CONTROS HydroFIA® pH</a> now available on the
+market.</p>
+<p>Ready, set, go out to sea (or sent your drones) and use that
+stuff!</p>
 <center>
 <p><img src="img/research_foci/pH.jpg" style="width:80.0%" /></p>
 </center>
@@ -403,9 +441,24 @@ h1.title {
 </div>
 <div id="bloomsail-expedition" class="section level2">
 <h2>BloomSail Expedition</h2>
-<div id="quantification-and-control-of-cyanobacteria-blooms" class="section level3">
+<div id="quantification-and-control-of-cyanobacteria-blooms"
+class="section level3">
 <h3>Quantification and Control of Cyanobacteria Blooms</h3>
-<p>Our pCO<sub>2</sub> measurement on VOS Finnmaid (see above) miss one important feature: The vertical extension of the CO<sub>2</sub> draw down that we use to quantify net community production. For the spring bloom we can fix that by looking at the vertical depletion of nutrients after the bloom. But in mid-summer, when cyanobacteria kick-in, which are capable of fixing N<sub>2</sub> and are known to cope with very variable amounts of Phosphate, there is now other way than going out there and measure pCO<sub>2</sub> at depth. Unfortunately, the blooms occur for a few days some when between June and August, so I had to spend three months at sea to be there in time. Classical research vessel cost ~10k€ a day. My boss and many others would have killed me if I had even dared to ask. So, I rather relied on a small funding from the National Geographic Society and my beloved sailing vessel Tina V to spend summer 2018 at sea (though my boss still wanted to kill me at first). The outcome is expected to be published soon.</p>
+<p>Our pCO<sub>2</sub> measurement on VOS Finnmaid (see above) miss one
+important feature: The vertical extension of the CO<sub>2</sub> draw
+down that we use to quantify net community production. For the spring
+bloom we can fix that by looking at the vertical depletion of nutrients
+after the bloom. But in mid-summer, when cyanobacteria kick-in, which
+are capable of fixing N<sub>2</sub> and are known to cope with very
+variable amounts of Phosphate, there is now other way than going out
+there and measure pCO<sub>2</sub> at depth. Unfortunately, the blooms
+occur for a few days some when between June and August, so I had to
+spend three months at sea to be there in time. Classical research vessel
+cost ~10k€ a day. My boss and many others would have killed me if I had
+even dared to ask. So, I rather relied on a small funding from the
+National Geographic Society and my beloved sailing vessel Tina V to
+spend summer 2018 at sea (though my boss still wanted to kill me at
+first). The outcome is expected to be published soon.</p>
 <center>
 <p><img src="img/research_foci/BloomSail.jpg" style="width:80.0%" /></p>
 </center>
@@ -418,7 +471,7 @@ h1.title {
 
 <div id="footer">
 <center>
-<p>Compiled in R. Updated Nov 2019. All rights reserved.</p>
+<p>Compiled in R. Updated June 2023. All rights reserved.</p>
 </center>
 </div>
 
@@ -430,7 +483,7 @@ h1.title {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -448,7 +501,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
