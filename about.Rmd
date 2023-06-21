@@ -31,6 +31,30 @@ Please find a complete and detailed CV including publication list [here](CV/CV_M
 <div style="margin-bottom:50px;">
 </div>
 
+# Postdoctoral employment
+
+2020 - present  
+**Postdoctoral researcher**  
+ETH Zurich  
+Environmental Physics | Prof. Dr. Nicolas Gruber  
+EU Horizon 2020 project [4C](https://4c-carbon.eu/){target="_blank"}  
+
+2018 - 2020  
+**Postdoctoral researcher**  
+Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
+Trace gas biogeochemistry | Prof. Dr. Gregor Rehder  
+EU project [BONUS INTEGRAL](https://www.io-warnemuende.de/integral-home.html){target="_blank"}  
+
+2019 - 2020  
+**Guest Scientist**  
+Max Planck Institute for Meteorology (MPI-M)  
+Group [Observations, Analysis and Synthesis](https://www.mpimet.mpg.de/en/science/the-ocean-in-the-earth-system/scientific-working-groups/observations-analysis-and-synthesis/#c29559){target="_blank"} | Dr. Peter Landschützer  
+
+<div style="margin-bottom:50px;">
+</div>
+
+***
+
 # Education
 
 2018  
@@ -39,6 +63,7 @@ Leibniz Institute for Baltic Sea Research Warnemünde (IOW)
 Supervisor: Prof. Dr. Gregor Rehder  
 Title: [Ocean Acidification in the Baltic Sea: Involved Processes, Metrology of pH in Brackish Waters, and Calcification under Fluctuating Conditions](http://rosdok.uni-rostock.de/resolve/id/rosdok_disshab_0000001963){target="_blank"}  
 Grade: With honors (Summa cum laude)  
+EU project [BONUS PINBAL](https://www.io-warnemuende.de/pinbal-home.html){target="_blank"}
 
 2012  
 **MSc Biological Oceanography**  
@@ -60,22 +85,7 @@ Grade: 2.0 (ECTS grade B “Very good”)
 
 ***
 
-# Employment
-
-Since 2019  
-**Guest Scientist**  
-Max Planck Institute for Meteorology (MPI-M)  
-Group [Observations, Analysis and Synthesis](https://www.mpimet.mpg.de/en/science/the-ocean-in-the-earth-system/scientific-working-groups/observations-analysis-and-synthesis/#c29559){target="_blank"} | Dr. Peter Landschützer   
-
-Since 2018  
-**PostDoc**  
-Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
-EU project [BONUS INTEGRAL](https://www.io-warnemuende.de/integral-home.html){target="_blank"}  
-
-2014 – 2018  
-**PhD student**  
-Leibniz-Institute for Baltic Sea Research Warnemünde (IOW)  
-EU project [BONUS PINBAL](https://www.io-warnemuende.de/pinbal-home.html){target="_blank"}
+# Work experience
 
 2013 – 2014  
 **Scientific Employee**  
