@@ -26,7 +26,7 @@ h1.title {
 <div style="margin-bottom:50px;">
 </div>
 
-Please find a complete and detailed CV including publication list [here](CV/CV_Mueller_Jens_Daniel_June_2023.pdf){target="_blank"}
+Please find a complete and detailed CV including publication list [here](CV/CV_Mueller_Jens_Daniel_Nov_2023.pdf){target="_blank"}
 
 <div style="margin-bottom:50px;">
 </div>
