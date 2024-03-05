@@ -35,13 +35,33 @@ Regularly updated publication lists are also hosted on:
 
 ## Peer-reviewed articles
 
+### 2024
+
+Müller, J. D. and Gruber, N. (2024). **Progression of Ocean Interior Acidification over the Industrial Era** [submitted to Science Advances], <https://doi.org/10.22541/essoar.170654370.07309198/v1>.
+
+Resplandy, L., Hogikyan, A., Müller, J. D., Najjar, R. G., et al (2024). **A Synthesis of Global Coastal Ocean Greenhouse Gas Fluxes**, Global Biogeochemical Cycles, 38, e2023GB007803, <https://doi.org/10.1029/2023GB007803>.
+
+Terhaar, J., Goris, N., Müller, J. D., DeVries, T., Gruber, N., Hauck, J., Pérez, F. F., and Séférian, R. (2024). **Assessment of Global Ocean Biogeochemistry Models for Ocean Carbon Sink Estimates in RECCAP2 and Recommendations for Future Studies**, [accepted for publication in Journal of Advances in Modeling Earth Systems], <https://doi.org/10.22541/essoar.168394734.41886821/v1>.
+
+Lauvset, S. K., Lange, N., Tanhua, T., Bittig, H. C., Olsen, A., Kozyr, A., Álvarez, M., Azetsu-Scott, K., Brown, P. J., Carter, B. R., Cotrim da Cunha, L., Hoppema, M., Humphreys, M. P., Ishii, M., Jeansson, E., Murata, A., Müller, J. D., Perez, F. F., Schirnick, C., Steinfeldt, R., Suzuki, T., Ulfsbo, A., Velo, A., Woosley, R. J., and Key, R. (2024). **The annual update GLODAPv2.2023: the global interior ocean biogeochemical data product**, [under review at ESSD], <https://doi.org/10.5194/essd-2023-468>.
+
 ### 2023
 
-Müller, J. D., Gruber, N., Carter, B. R., Feely, R. A., Ishii, M., Lange, N., et al. (2023). **Decadal Trends in the Oceanic Storage of Anthropogenic Carbon from 1994 to 2014** (accepted, AGU Advances). <https://doi.org/10.22541/essoar.167525217.76035050/v1>
+Müller, J. D., Gruber, N., Carter, B., Feely, R., Ishii, M., Lange, N., Lauvset, S. K., Murata, A., Olsen, A., Pérez, F. F., Sabine, C., Tanhua, T., Wanninkhof, R., and Zhu, D. (2023). **Decadal Trends in the Oceanic Storage of Anthropogenic Carbon From 1994 to 2014**, AGU Advances, 4, e2023AV000875, <https://doi.org/10.1029/2023AV000875>.
 
-Gruber, N., Bakker, D. C. E., DeVries, T., Gregor, L., Hauck, J., Landschützer, P., et al. (2023). **Trends and variability in the ocean carbon sink**. Nature Reviews Earth & Environment, 1--16. <https://doi.org/10.1038/s43017-022-00381-x>
+DeVries, T., Yamamoto, K., Wanninkhof, R., Gruber, N., Hauck, J., Müller, J. D., et al. (2023). **Magnitude, Trends, and Variability of the Global Ocean Carbon Sink From 1985 to 2018**, Global Biogeochemical Cycles, 37, e2023GB007780, <https://doi.org/10.1029/2023GB007780>.
 
-Kappel, E., Costello, M., Galgani, L., Gordó-Vilaseca, C., Govindarajan, A., Kouhi, S., et al. (2023). **Introduction to Frontiers in Ocean Observing**. Oceanography. <https://doi.org/10.5670/oceanog.2023.s1.1>
+Gruber, N., Bakker, D. C. E., DeVries, T., Gregor, L., Hauck, J., Landschützer, P., McKinley, G. A., and Müller, J. D. (2023). T**rends and variability in the ocean carbon sink**, Nat Rev Earth Environ, 1–16, <https://doi.org/10.1038/s43017-022-00381-x>.
+
+Yasunaka, S., Manizza, M., Terhaar, J., Olsen, A., Yamaguchi, R., Landschützer, P., Watanabe, E., Carroll, D., Adiwira, H., Müller, J. D., and Hauck, J. (2023). **An Assessment of CO2 Uptake in the Arctic Ocean From 1985 to 2018**, Global Biogeochemical Cycles, 37, e2023GB007806, <https://doi.org/10.1029/2023GB007806>.
+
+Rodgers, K. B., Schwinger, J., Fassbender, A. J., Landschützer, P., Yamaguchi, R., Frenzel, H., Stein, K., Müller, J. D., Goris, N., Sharma, S., Bushinsky, S., Chau, T.-T.-T., Gehlen, M., Gallego, M. A., Gloege, L., Gregor, L., Gruber, N., Hauck, J., Iida, Y., Ishii, M., Keppler, L., Kim, J.-E., Schlunegger, S., Tjiputra, J., Toyama, K., Vaittinada Ayar, P., and Velo, A. (2023). **Seasonal Variability of the Surface Ocean Carbon Cycle: A Synthesis**, Global Biogeochemical Cycles, 37, e2023GB007798, <https://doi.org/10.1029/2023GB007798>.
+
+Kappel, E., Costello, M., Galgani, L., Gordó-Vilaseca, C., Govindarajan, A., Kouhi, S., Lavin, C., McCartin, L., Müller, J. D., Pirenne, B., Tanhua, T., Zhao, Q., and Zhao, S. (2023). **Introduction to Frontiers in Ocean Observing**, Oceanog, <https://doi.org/10.5670/oceanog.2023.s1.1>.
+
+Müller, J. D.: **RECCAP2-ocean data collection**, [Dataset], <https://doi.org/10.5281/zenodo.7990823>, 2023.
+
+Pérez, F. F., Perez, F. F., Becker, M., Goris, N., Gehlen, M., Lopez-Mozos, M., Tjiputra, J., Olsen, A., Müller, J. D., Huertas, I. E., Chau, T. T. T., Cainzos, V., Velo, A., Benard, G., Hauck, J., Gruber, N., and Wanninkhof, R. (2023). **An assessment of CO2 storage and sea-air fluxes for the Atlantic Ocean and Mediterranean Sea between 1985 and 2018**, [under review at GBC] <https://doi.org/10.22541/essoar.170256825.55098483/v2>.
 
 ### 2022
 
@@ -92,25 +112,6 @@ Müller, J. D., Schneider, B., & Rehder, G. (2016). **Long-term alkalinity trend
 Schulz, J., Möller, K. O., Bracher, A., Hieronymi, M., Cisewski, B., Zielinski, O., et al. (2015). **Aquatische Optische Technologien in Deutschland**. Marine Science Reports - Meereswissenschaftliche Berichte, 97, 1--83. <https://doi.org/10.12754/msr-2015-97>
 
 Wahl, Martin, Buchholz, B., Winde, V., Golomb, D., Guy-Haim, T., Müller, J., et al. (2015). **A mesocosm concept for the simulation of near-natural shallow underwater climates: The Kiel Outdoor Benthocosms (KOB): Mesocosms with natural fluctuations and delta treatments.** Limnology and Oceanography: Methods, 13(11), 651--663. <https://doi.org/10.1002/lom3.10055>
-
-::: {style="margin-bottom:50px;"}
-:::
-
-------------------------------------------------------------------------
-
-### Manuscripts in review
-
-DeVries, T., Yamamoto, Kana, Wanninkhof, R., Gruber, N., Hauck, J., & Müller, J. D. (2023). **Magnitude, trends, and variability of the global ocean carbon sink from 1985-2018**. in review, Global Biogeochemical Cycles.
-
-Perez, F. F., Becker, M., Goris, N., Gehlen, M., & Müller, J. D. (2023). **An assessment of CO2 storage and sea-air fluxes for the Atlantic Ocean and Mediterranean Sea between 1985 and 2018**. in review, Global Biogeochemical Cycles.
-
-Resplandy, L., Hogikyan, A., Bange, H. W., Bianchi, D., Weber, T. S., Cai, W.-J., et al. (2023). **A Synthesis of Global Coastal Ocean Greenhouse Gas Fluxes** (preprint). in review, Global Biogeochemical Cycles. <https://doi.org/10.22541/essoar.168182303.39621839/v1>
-
-Rodgers, K., Schwinger, J., Fassbender, A., Landschützer, P., Yamaguchi, R., Frenzel, H., et al. (2023). **Seasonal variability of the surface ocean carbon cycle: a synthesis** (in review, Global Biogeochemical Cycles). Preprints. <https://doi.org/10.22541/essoar.168167394.47800179/v1>
-
-Terhaar, J., Goris, N., Müller, J. D., DeVries, T., Gruber, N., Hauck, J., et al. (2023). **Assessment of Global Ocean Biogeochemistry Models for Ocean Carbon Sink Estimates in RECCAP2 and Recommendations for Future Studies** (in review, Global Biogeochemical Cycles). Preprints. <https://doi.org/10.22541/essoar.168394734.41886821/v1>
-
-Yasunaka, S., Manizza, M., Terhaar, J., Olsen, A., Yamaguchi, R., Landschützer, P., et al. (2023). **An assessment of CO2 uptake in the Arctic Ocean from 1985 to 2018** (preprint). in review, Global Biogeochemical Cycles. <https://doi.org/10.22541/essoar.168476524.42265823/v1>
 
 ::: {style="margin-bottom:50px;"}
 :::
