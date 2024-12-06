@@ -37,15 +37,13 @@ Regularly updated publication lists are also hosted on:
 
 ### Under review
 
-Müller, J.D., Gruber, N., Schneuwly, A., Bakker, D., Gehlen, M., Gregor, L., Hauck, J., Landschützer, P., and McKinley, G., **Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023**, under review at Nature Climate Change, <https://doi.org/10.21203/rs.3.rs-5198321/v1>.
-
+[Müller, J.D.]{.underline}, Gruber, N., Schneuwly, A., Bakker, D., Gehlen, M., Gregor, L., Hauck, J., Landschützer, P., and McKinley, G., **Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023**, under review at Nature Climate Change, <https://doi.org/10.21203/rs.3.rs-5198321/v1>.
 
 Ishii, M., Carter, B. R., Toyama, K., Rodgers, K. B., Feely, R. A., Chau, T.-T.-T., Chevallier, F., Desmet, F., Gregor, L., Iida, Y., Kitamura, Y., Müller, J. D., and Tsujino, H.: **CO2 uptake in the Pacific from 1985 to 2018: a comparative assessment of observation-and model-based estimates**, under review at Global Biogeochemical Cycles, <https://doi.org/10.22541/essoar.173117017.78015455/v1>.
 
 ### In press
 
 Olivarez, H.C., Lovenduski, N.S., Maroon, E., Müller, J.D., Fay, A.R., Krumhardt, K.M., Levy, M.N., Lindsay, K., McKinley, G.A., Rader, J.K., **Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage**, accepted for publication at Environmental Research Letters.
-
 
 ### 2024
 
@@ -57,7 +55,7 @@ Pérez, F. F., Perez, F. F., Becker, M., Goris, N., Gehlen, M., Lopez-Mozos, M.,
 
 Terhaar, J., Goris, N., Müller, J. D., DeVries, T., Gruber, N., Hauck, J., Pérez, F. F., and Séférian, R. (2024). **Assessment of Global Ocean Biogeochemistry Models for Ocean Carbon Sink Estimates in RECCAP2 and Recommendations for Future Studies**, Journal of Advances in Modeling Earth Systems, <https://doi.org/10.1029/2023MS003840>.
 
-Doney, S. C., Mitchell, K. A., Henson, S. A., Cavan, E., DeVries, T., Gruber, N., Hauck, J., Mouw, C.B.,  Müller, J.D., Primeau, F.W. (2024). **Observational and numerical modeling constraints on the global ocean biological carbon pump**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2024GB008156>
+Doney, S. C., Mitchell, K. A., Henson, S. A., Cavan, E., DeVries, T., Gruber, N., Hauck, J., Mouw, C.B., Müller, J.D., Primeau, F.W. (2024). **Observational and numerical modeling constraints on the global ocean biological carbon pump**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2024GB008156>
 
 Lauvset, S. K., Lange, N., Tanhua, T., Bittig, H. C., Olsen, A., Kozyr, A., Álvarez, M., Azetsu-Scott, K., Brown, P. J., Carter, B. R., Cotrim da Cunha, L., Hoppema, M., Humphreys, M. P., Ishii, M., Jeansson, E., Murata, A., Müller, J. D., Perez, F. F., Schirnick, C., Steinfeldt, R., Suzuki, T., Ulfsbo, A., Velo, A., Woosley, R. J., and Key, R. (2024). **The annual update GLODAPv2.2023: the global interior ocean biogeochemical data product**, [under review at ESSD], <https://doi.org/10.5194/essd-2023-468>.
 
@@ -218,7 +216,6 @@ Supervisor: Prof. Dr. Gregor Rehder \| Mentor: Dr. Bernd Schneider\
 
 ::: {style="margin-bottom:50px;"}
 :::
-
 
 ------------------------------------------------------------------------
 
