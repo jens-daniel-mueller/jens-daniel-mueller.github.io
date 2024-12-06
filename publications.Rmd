@@ -39,41 +39,41 @@ Regularly updated publication lists are also hosted on:
 
 [Müller, J.D.]{.underline}, Gruber, N., Schneuwly, A., Bakker, D., Gehlen, M., Gregor, L., Hauck, J., Landschützer, P., and McKinley, G., **Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023**, under review at Nature Climate Change, <https://doi.org/10.21203/rs.3.rs-5198321/v1>.
 
-Ishii, M., Carter, B. R., Toyama, K., Rodgers, K. B., Feely, R. A., Chau, T.-T.-T., Chevallier, F., Desmet, F., Gregor, L., Iida, Y., Kitamura, Y., Müller, J. D., and Tsujino, H.: **CO2 uptake in the Pacific from 1985 to 2018: a comparative assessment of observation-and model-based estimates**, under review at Global Biogeochemical Cycles, <https://doi.org/10.22541/essoar.173117017.78015455/v1>.
+Ishii, M., Carter, B. R., Toyama, K., Rodgers, K. B., Feely, R. A., Chau, T.-T.-T., Chevallier, F., Desmet, F., Gregor, L., Iida, Y., Kitamura, Y., [Müller, J.D.]{.underline}, and Tsujino, H.: **CO2 uptake in the Pacific from 1985 to 2018: a comparative assessment of observation-and model-based estimates**, under review at Global Biogeochemical Cycles, <https://doi.org/10.22541/essoar.173117017.78015455/v1>.
 
 ### In press
 
-Olivarez, H.C., Lovenduski, N.S., Maroon, E., Müller, J.D., Fay, A.R., Krumhardt, K.M., Levy, M.N., Lindsay, K., McKinley, G.A., Rader, J.K., **Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage**, accepted for publication at Environmental Research Letters.
+Olivarez, H.C., Lovenduski, N.S., Maroon, E., [Müller, J.D.]{.underline}, Fay, A.R., Krumhardt, K.M., Levy, M.N., Lindsay, K., McKinley, G.A., Rader, J.K., **Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage**, accepted for publication at Environmental Research Letters.
 
 ### 2024
 
-Müller, J. D. and Gruber, N. (2024). **Progression of Ocean Interior Acidification over the Industrial Era**, Science Advances, <https://doi.org/10.1126/sciadv.ado3103>.
+[Müller, J.D.]{.underline} and Gruber, N. (2024). **Progression of Ocean Interior Acidification over the Industrial Era**, Science Advances, <https://doi.org/10.1126/sciadv.ado3103>.
 
-Resplandy, L., Hogikyan, A., Müller, J. D., Najjar, R. G., et al (2024). **A Synthesis of Global Coastal Ocean Greenhouse Gas Fluxes**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2023GB007803>.
+Resplandy, L., Hogikyan, A., [Müller, J.D.]{.underline}, Najjar, R. G., et al (2024). **A Synthesis of Global Coastal Ocean Greenhouse Gas Fluxes**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2023GB007803>.
 
-Pérez, F. F., Perez, F. F., Becker, M., Goris, N., Gehlen, M., Lopez-Mozos, M., Tjiputra, J., Olsen, A., Müller, J. D., Huertas, I. E., Chau, T. T. T., Cainzos, V., Velo, A., Benard, G., Hauck, J., Gruber, N., and Wanninkhof, R. (2023). **An assessment of CO2 storage and sea-air fluxes for the Atlantic Ocean and Mediterranean Sea between 1985 and 2018**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2023GB007862>.
+Pérez, F. F., Perez, F. F., Becker, M., Goris, N., Gehlen, M., Lopez-Mozos, M., Tjiputra, J., Olsen, A., [Müller, J.D.]{.underline}, Huertas, I. E., Chau, T. T. T., Cainzos, V., Velo, A., Benard, G., Hauck, J., Gruber, N., and Wanninkhof, R. (2023). **An assessment of CO2 storage and sea-air fluxes for the Atlantic Ocean and Mediterranean Sea between 1985 and 2018**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2023GB007862>.
 
-Terhaar, J., Goris, N., Müller, J. D., DeVries, T., Gruber, N., Hauck, J., Pérez, F. F., and Séférian, R. (2024). **Assessment of Global Ocean Biogeochemistry Models for Ocean Carbon Sink Estimates in RECCAP2 and Recommendations for Future Studies**, Journal of Advances in Modeling Earth Systems, <https://doi.org/10.1029/2023MS003840>.
+Terhaar, J., Goris, N., [Müller, J.D.]{.underline}, DeVries, T., Gruber, N., Hauck, J., Pérez, F. F., and Séférian, R. (2024). **Assessment of Global Ocean Biogeochemistry Models for Ocean Carbon Sink Estimates in RECCAP2 and Recommendations for Future Studies**, Journal of Advances in Modeling Earth Systems, <https://doi.org/10.1029/2023MS003840>.
 
-Doney, S. C., Mitchell, K. A., Henson, S. A., Cavan, E., DeVries, T., Gruber, N., Hauck, J., Mouw, C.B., Müller, J.D., Primeau, F.W. (2024). **Observational and numerical modeling constraints on the global ocean biological carbon pump**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2024GB008156>
+Doney, S. C., Mitchell, K. A., Henson, S. A., Cavan, E., DeVries, T., Gruber, N., Hauck, J., Mouw, C.B., [Müller, J.D.]{.underline}, Primeau, F.W. (2024). **Observational and numerical modeling constraints on the global ocean biological carbon pump**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2024GB008156>
 
-Lauvset, S. K., Lange, N., Tanhua, T., Bittig, H. C., Olsen, A., Kozyr, A., Álvarez, M., Azetsu-Scott, K., Brown, P. J., Carter, B. R., Cotrim da Cunha, L., Hoppema, M., Humphreys, M. P., Ishii, M., Jeansson, E., Murata, A., Müller, J. D., Perez, F. F., Schirnick, C., Steinfeldt, R., Suzuki, T., Ulfsbo, A., Velo, A., Woosley, R. J., and Key, R. (2024). **The annual update GLODAPv2.2023: the global interior ocean biogeochemical data product**, [under review at ESSD], <https://doi.org/10.5194/essd-2023-468>.
+Lauvset, S. K., Lange, N., Tanhua, T., Bittig, H. C., Olsen, A., Kozyr, A., Álvarez, M., Azetsu-Scott, K., Brown, P. J., Carter, B. R., Cotrim da Cunha, L., Hoppema, M., Humphreys, M. P., Ishii, M., Jeansson, E., Murata, A., [Müller, J.D.]{.underline}, Perez, F. F., Schirnick, C., Steinfeldt, R., Suzuki, T., Ulfsbo, A., Velo, A., Woosley, R. J., and Key, R. (2024). **The annual update GLODAPv2.2023: the global interior ocean biogeochemical data product**, [under review at ESSD], <https://doi.org/10.5194/essd-2023-468>.
 
 ### 2023
 
-Müller, J. D., Gruber, N., Carter, B., Feely, R., Ishii, M., Lange, N., Lauvset, S. K., Murata, A., Olsen, A., Pérez, F. F., Sabine, C., Tanhua, T., Wanninkhof, R., and Zhu, D. (2023). **Decadal Trends in the Oceanic Storage of Anthropogenic Carbon From 1994 to 2014**, AGU Advances, 4, e2023AV000875, <https://doi.org/10.1029/2023AV000875>.
+[Müller, J.D.]{.underline}, Gruber, N., Carter, B., Feely, R., Ishii, M., Lange, N., Lauvset, S. K., Murata, A., Olsen, A., Pérez, F. F., Sabine, C., Tanhua, T., Wanninkhof, R., and Zhu, D. (2023). **Decadal Trends in the Oceanic Storage of Anthropogenic Carbon From 1994 to 2014**, AGU Advances, 4, e2023AV000875, <https://doi.org/10.1029/2023AV000875>.
 
-DeVries, T., Yamamoto, K., Wanninkhof, R., Gruber, N., Hauck, J., Müller, J. D., et al. (2023). **Magnitude, Trends, and Variability of the Global Ocean Carbon Sink From 1985 to 2018**, Global Biogeochemical Cycles, 37, e2023GB007780, <https://doi.org/10.1029/2023GB007780>.
+DeVries, T., Yamamoto, K., Wanninkhof, R., Gruber, N., Hauck, J., [Müller, J.D.]{.underline}, et al. (2023). **Magnitude, Trends, and Variability of the Global Ocean Carbon Sink From 1985 to 2018**, Global Biogeochemical Cycles, 37, e2023GB007780, <https://doi.org/10.1029/2023GB007780>.
 
-Gruber, N., Bakker, D. C. E., DeVries, T., Gregor, L., Hauck, J., Landschützer, P., McKinley, G. A., and Müller, J. D. (2023). T**rends and variability in the ocean carbon sink**, Nat Rev Earth Environ, 1–16, <https://doi.org/10.1038/s43017-022-00381-x>.
+Gruber, N., Bakker, D. C. E., DeVries, T., Gregor, L., Hauck, J., Landschützer, P., McKinley, G. A., and [Müller, J.D.]{.underline} (2023). T**rends and variability in the ocean carbon sink**, Nat Rev Earth Environ, 1–16, <https://doi.org/10.1038/s43017-022-00381-x>.
 
-Yasunaka, S., Manizza, M., Terhaar, J., Olsen, A., Yamaguchi, R., Landschützer, P., Watanabe, E., Carroll, D., Adiwira, H., Müller, J. D., and Hauck, J. (2023). **An Assessment of CO2 Uptake in the Arctic Ocean From 1985 to 2018**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2023GB007806>.
+Yasunaka, S., Manizza, M., Terhaar, J., Olsen, A., Yamaguchi, R., Landschützer, P., Watanabe, E., Carroll, D., Adiwira, H., [Müller, J.D.]{.underline}, and Hauck, J. (2023). **An Assessment of CO2 Uptake in the Arctic Ocean From 1985 to 2018**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2023GB007806>.
 
-Rodgers, K. B., Schwinger, J., Fassbender, A. J., Landschützer, P., Yamaguchi, R., Frenzel, H., Stein, K., Müller, J. D., Goris, N., Sharma, S., Bushinsky, S., Chau, T.-T.-T., Gehlen, M., Gallego, M. A., Gloege, L., Gregor, L., Gruber, N., Hauck, J., Iida, Y., Ishii, M., Keppler, L., Kim, J.-E., Schlunegger, S., Tjiputra, J., Toyama, K., Vaittinada Ayar, P., and Velo, A. (2023). **Seasonal Variability of the Surface Ocean Carbon Cycle: A Synthesis**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2023GB007798>.
+Rodgers, K. B., Schwinger, J., Fassbender, A. J., Landschützer, P., Yamaguchi, R., Frenzel, H., Stein, K., [Müller, J.D.]{.underline}, Goris, N., Sharma, S., Bushinsky, S., Chau, T.-T.-T., Gehlen, M., Gallego, M. A., Gloege, L., Gregor, L., Gruber, N., Hauck, J., Iida, Y., Ishii, M., Keppler, L., Kim, J.-E., Schlunegger, S., Tjiputra, J., Toyama, K., Vaittinada Ayar, P., and Velo, A. (2023). **Seasonal Variability of the Surface Ocean Carbon Cycle: A Synthesis**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2023GB007798>.
 
-Kappel, E., Costello, M., Galgani, L., Gordó-Vilaseca, C., Govindarajan, A., Kouhi, S., Lavin, C., McCartin, L., Müller, J. D., Pirenne, B., Tanhua, T., Zhao, Q., and Zhao, S. (2023). **Introduction to Frontiers in Ocean Observing**, Oceanog, <https://doi.org/10.5670/oceanog.2023.s1.1>.
+Kappel, E., Costello, M., Galgani, L., Gordó-Vilaseca, C., Govindarajan, A., Kouhi, S., Lavin, C., McCartin, L., [Müller, J.D.]{.underline}, Pirenne, B., Tanhua, T., Zhao, Q., and Zhao, S. (2023). **Introduction to Frontiers in Ocean Observing**, Oceanog, <https://doi.org/10.5670/oceanog.2023.s1.1>.
 
-Müller, J. D.: **RECCAP2-ocean data collection**, [Dataset], <https://doi.org/10.5281/zenodo.7990823>, 2023.
+[Müller, J.D.]{.underline}: **RECCAP2-ocean data collection**, [Dataset], <https://doi.org/10.5281/zenodo.7990823>, 2023.
 
 ### 2022
 
@@ -85,13 +85,13 @@ Poulter, B., Bastos, A., Canadell, J., Ciais, P., Gruber, N., Hauck, J., et al. 
 
 ### 2021
 
-Honkanen, M., Müller, J. D., Seppälä, J., Rehder, G., Kielosto, S., Ylöstalo, P., et al. (2021). **The diurnal cycle of pCO2 in the coastal region of the Baltic Sea**. Ocean Science, <https://doi.org/10.5194/os-17-1657-2021>
+Honkanen, M., [Müller, J.D.]{.underline}, Seppälä, J., Rehder, G., Kielosto, S., Ylöstalo, P., et al. (2021). **The diurnal cycle of pCO2 in the coastal region of the Baltic Sea**. Ocean Science, <https://doi.org/10.5194/os-17-1657-2021>
 
-Jacobs, E., Bittig, H. C., Gräwe, U., Graves, C. A., Glockzin, M., Müller, J. D., et al. (2021). **Upwelling-induced trace gas dynamics in the Baltic Sea inferred from 8 years of autonomous measurements on a ship of opportunity**. Biogeosciences, <https://doi.org/10.5194/bg-18-2679-2021>
+Jacobs, E., Bittig, H. C., Gräwe, U., Graves, C. A., Glockzin, M., [Müller, J.D.]{.underline}, et al. (2021). **Upwelling-induced trace gas dynamics in the Baltic Sea inferred from 8 years of autonomous measurements on a ship of opportunity**. Biogeosciences, <https://doi.org/10.5194/bg-18-2679-2021>
 
-Müller, J. D., Schneider, B., Gräwe, U., Fietzek, P., Wallin, M. B., Rutgersson, A., et al. (2021). **Cyanobacteria net community production in the Baltic Sea as inferred from profiling pCO2 measurements.** Biogeosciences, <https://doi.org/10.5194/bg-18-4889-2021>
+[Müller, J.D.]{.underline}, Schneider, B., Gräwe, U., Fietzek, P., Wallin, M. B., Rutgersson, A., et al. (2021). **Cyanobacteria net community production in the Baltic Sea as inferred from profiling pCO2 measurements.** Biogeosciences, <https://doi.org/10.5194/bg-18-4889-2021>
 
-Sanders, T., Thomsen, J., Müller, J. D., Rehder, G., & Melzner, F. (2021). **Decoupling salinity and carbonate chemistry: low calcium ion concentration rather than salinity limits calcification in Baltic Sea mussels**. Biogeosciences, <https://doi.org/10.5194/bg-18-2573-2021>
+Sanders, T., Thomsen, J., [Müller, J.D.]{.underline}, Rehder, G., & Melzner, F. (2021). **Decoupling salinity and carbonate chemistry: low calcium ion concentration rather than salinity limits calcification in Baltic Sea mussels**. Biogeosciences, <https://doi.org/10.5194/bg-18-2573-2021>
 
 ### 2019
 
@@ -99,31 +99,31 @@ Wanninkhof, R., Pickers, P. A., Omar, A. M., Sutton, A., Murata, A., Olsen, A., 
 
 ### 2018
 
-Müller, Jens D., & Rehder, G. (2018). **Metrology of pH Measurements in Brackish Waters---Part 2: Experimental Characterization of Purified meta-Cresol Purple for Spectrophotometric pHT Measurements**. Frontiers in Marine Science, <https://doi.org/10.3389/fmars.2018.00177>
+[Müller, J.D.]{.underline}, & Rehder, G. (2018). **Metrology of pH Measurements in Brackish Waters---Part 2: Experimental Characterization of Purified meta-Cresol Purple for Spectrophotometric pHT Measurements**. Frontiers in Marine Science, <https://doi.org/10.3389/fmars.2018.00177>
 
-Müller, J. D., Bastkowski, F., Sander, B., Seitz, S., Turner, D. R., Dickson, A. G., & Rehder, G. (2018). **Metrology for pH Measurements in Brackish Waters---Part 1: Extending Electrochemical pHT Measurements of TRIS Buffers to Salinities 5--20**. Frontiers in Marine Science, <https://doi.org/10.3389/fmars.2018.00176>
+[Müller, J.D.]{.underline}, Bastkowski, F., Sander, B., Seitz, S., Turner, D. R., Dickson, A. G., & Rehder, G. (2018). **Metrology for pH Measurements in Brackish Waters---Part 1: Extending Electrochemical pHT Measurements of TRIS Buffers to Salinities 5--20**. Frontiers in Marine Science, <https://doi.org/10.3389/fmars.2018.00176>
 
-Müller, J. D., Schneider, B., Aßmann, S., & Rehder, G. (2018). **Spectrophotometric pH measurements in the presence of dissolved organic matter and hydrogen sulfide: Perturbations of spec pH measurements**. Limnology and Oceanography: Methods, <https://doi.org/10.1002/lom3.10227>
+[Müller, J.D.]{.underline}, Schneider, B., Aßmann, S., & Rehder, G. (2018). **Spectrophotometric pH measurements in the presence of dissolved organic matter and hydrogen sulfide: Perturbations of spec pH measurements**. Limnology and Oceanography: Methods, <https://doi.org/10.1002/lom3.10227>
 
 Staudinger, C., Strobl, M., Fischer, J. P., Thar, R., Mayr, T., Aigner, D., et al. (2018). **A versatile optode system for oxygen, carbon dioxide, and pH measurements in seawater with integrated battery and logger: A versatile optode system for O 2 , CO 2 , and pH** . Limnology and Oceanography: Methods, <https://doi.org/10.1002/lom3.10260>
 
-Wahl, M., Schneider Covachã, S., Saderne, V., Hiebenthal, C., Müller, J. D., Pansch, C., & Sawall, Y. (2018). **Macroalgae may mitigate ocean acidification effects on mussel calcification by increasing pH and its fluctuations: Biogenic fluctuations mitigate OA effects**. Limnology and Oceanography, <https://doi.org/10.1002/lno.10608>
+Wahl, M., Schneider Covachã, S., Saderne, V., Hiebenthal, C., [Müller, J.D.]{.underline}, Pansch, C., & Sawall, Y. (2018). **Macroalgae may mitigate ocean acidification effects on mussel calcification by increasing pH and its fluctuations: Biogenic fluctuations mitigate OA effects**. Limnology and Oceanography, <https://doi.org/10.1002/lno.10608>
 
 ### 2017
 
-Fritzsche, E., Gruber, P., Schutting, S., P. Fischer, J., Strobl, M., D. Müller, J., et al. (2017). **Highly sensitive poisoning-resistant optical carbon dioxide sensors for environmental monitoring**. Analytical Methods, <https://doi.org/10.1039/C6AY02949C>
+Fritzsche, E., Gruber, P., Schutting, S., Fischer, J.P., Strobl, M., [Müller, J.D.]{.underline}, et al. (2017). **Highly sensitive poisoning-resistant optical carbon dioxide sensors for environmental monitoring**. Analytical Methods, <https://doi.org/10.1039/C6AY02949C>
 
-Saderne, V., Fietzek, P., Müller, J. D., Körtzinger, A., & Hiebenthal, C. (2017). **Intense pCO2 and [O2] Oscillations in a Mussel-Seagrass Habitat: Implications for Calcification**. Biogeosciences Discussions, 1--33. <https://doi.org/10.5194/bg-2017-351>
+Saderne, V., Fietzek, P., [Müller, J.D.]{.underline}, Körtzinger, A., & Hiebenthal, C. (2017). **Intense pCO2 and [O2] Oscillations in a Mussel-Seagrass Habitat: Implications for Calcification**. Biogeosciences Discussions, 1--33. <https://doi.org/10.5194/bg-2017-351>
 
 ### 2016
 
-Müller, J. D., Schneider, B., & Rehder, G. (2016). **Long-term alkalinity trends in the Baltic Sea and their implications for CO2-induced acidification**. Limnology and Oceanography, <https://doi.org/10.1002/lno.10349>
+[Müller, J.D.]{.underline}, Schneider, B., & Rehder, G. (2016). **Long-term alkalinity trends in the Baltic Sea and their implications for CO2-induced acidification**. Limnology and Oceanography, <https://doi.org/10.1002/lno.10349>
 
 ### 2015
 
 Schulz, J., Möller, K. O., Bracher, A., Hieronymi, M., Cisewski, B., Zielinski, O., et al. (2015). **Aquatische Optische Technologien in Deutschland**. Marine Science Reports - Meereswissenschaftliche Berichte, <https://doi.org/10.12754/msr-2015-97>
 
-Wahl, Martin, Buchholz, B., Winde, V., Golomb, D., Guy-Haim, T., Müller, J., et al. (2015). **A mesocosm concept for the simulation of near-natural shallow underwater climates: The Kiel Outdoor Benthocosms (KOB): Mesocosms with natural fluctuations and delta treatments.** Limnology and Oceanography: Methods, <https://doi.org/10.1002/lom3.10055>
+Wahl, Martin, Buchholz, B., Winde, V., Golomb, D., Guy-Haim, T., [Müller, J.D.]{.underline}, et al. (2015). **A mesocosm concept for the simulation of near-natural shallow underwater climates: The Kiel Outdoor Benthocosms (KOB): Mesocosms with natural fluctuations and delta treatments.** Limnology and Oceanography: Methods, <https://doi.org/10.1002/lom3.10055>
 
 ::: {style="margin-bottom:50px;"}
 :::
@@ -132,7 +132,7 @@ Wahl, Martin, Buchholz, B., Winde, V., Golomb, D., Guy-Haim, T., Müller, J., et
 
 ## Books
 
-Schneider, B. and Müller, J.D. (2017)\
+Schneider, B. and [Müller, J.D.]{.underline} (2017)\
 **Biogeochemical Transformations in the Baltic Sea: Observations Through Carbon Dioxide Glasses**\
 Springer International Publishing \| [doi:10.1007/978-3-319-61699-5](https://www.springer.com/de/book/9783319616988){target="_blank"}
 
