@@ -24,7 +24,7 @@ Github: [jens-daniel-mueller](https://github.com/jens-daniel-mueller)
 
 ***
 
-But the best is: Drop in and let's have a coffee:
+But the best is: Pass by and let's have a coffee:
 
 ```{r map, echo = FALSE, warning=FALSE, message=FALSE}
 library(leaflet)
