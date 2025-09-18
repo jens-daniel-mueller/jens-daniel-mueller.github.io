@@ -37,13 +37,19 @@ Regularly updated publication lists are also hosted on:
 
 ### Under review
 
-[Müller, J.D.]{.underline}, Gruber, N., Schneuwly, A., Bakker, D., Gehlen, M., Gregor, L., Hauck, J., Landschützer, P., and McKinley, G., **Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023**, under review at Nature Climate Change, <https://doi.org/10.21203/rs.3.rs-5198321/v1>.
+Hague, M., [Müller, J.D.]{.underline}, Münnich,M., Gruber, N., Decoupling of heat and carbon storage trends in the Southern Ocean, under review at Journal of Climate.
 
-Ishii, M., Carter, B. R., Toyama, K., Rodgers, K. B., Feely, R. A., Chau, T.-T.-T., Chevallier, F., Desmet, F., Gregor, L., Iida, Y., Kitamura, Y., [Müller, J.D.]{.underline}, and Tsujino, H.: **CO2 uptake in the Pacific from 1985 to 2018: a comparative assessment of observation-and model-based estimates**, under review at Global Biogeochemical Cycles, <https://doi.org/10.22541/essoar.173117017.78015455/v1>.
+Jiang, L.Q., Fay, A., [Müller, J.D.]{.underline}, et al., Synthesis of data products for ocean carbonate chemistry, Earth System Science Data Discussions [preprint], <https://doi.org/10.5194/essd-2025-255>. 
 
-### In press
+### 2025
 
-Olivarez, H.C., Lovenduski, N.S., Maroon, E., [Müller, J.D.]{.underline}, Fay, A.R., Krumhardt, K.M., Levy, M.N., Lindsay, K., McKinley, G.A., Rader, J.K., **Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage**, accepted for publication at Environmental Research Letters.
+[Müller, J.D.]{.underline}, Gruber, N., Schneuwly, A., Bakker, D., Gehlen, M., Gregor, L., Hauck, J., Landschützer, P., and McKinley, G. (2025). **Unexpected decline of the ocean carbon sink under record-high sea surface temperatures in 2023**, Nature Climate Change, <https://doi.org/10.1038/s41558-025-02380-4>.
+
+Olivarez, H.C., Lovenduski, N.S., Maroon, E., [Müller, J.D.]{.underline}, Fay, A.R., Krumhardt, K.M., Levy, M.N., Lindsay, K., McKinley, G.A., Rader, J.K. (2025). **Internal climate variability modulates decadal changes in ocean anthropogenic carbon storage**, Environmental Research Letters, <https://doi.org/10.1088/1748-9326/ada2ad>.
+
+Canadell, J.G., Poulter, B., Bastos, A., Ciais, P., Hauck, J., Andrew, R., Friedlingstein, P., Grassi, G. Jackson, R.B., [Müller, J.D.]{.underline}, Le Quéré, C., O'Sullivan, M., Patra, P., Peters, G.P., Pongratz, J., Saunois, M., Sitch, S., Tian, H., Villalobos, Y., Wang, X. (2025). From global to national GHG budgets: the REgional Carbon Cycle Assessment and Processes-3 (RECCAP3), National Science Review, <https://doi.org/10.1093/nsr/nwaf037>.
+
+Ishii, M., Carter, B. R., Toyama, K., Rodgers, K. B., Feely, R. A., Chau, T.-T.-T., Chevallier, F., Desmet, F., Gregor, L., Iida, Y., Kitamura, Y., [Müller, J.D.]{.underline}, and Tsujino, H. (2025). **CO2 uptake in the Pacific from 1985 to 2018: a comparative assessment of observation-and model-based estimates**, Global Biogeochemical Cycles, <https://doi.org/10.1029/2024GB008355>.
 
 ### 2024
 
