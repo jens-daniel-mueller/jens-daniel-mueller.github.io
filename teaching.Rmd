@@ -16,7 +16,7 @@ output:
 ::: {style="margin-bottom:50px;"}
 :::
 
-## SS 2022 & SS 2023
+## SS 2022-25
 
 ### Global Biogeochemical Cycles and Climate (with Nicolas Gruber & Meike Vogt)
 
