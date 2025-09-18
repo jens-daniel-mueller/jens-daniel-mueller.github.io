@@ -5,15 +5,18 @@ title: "Contact"
 
 Dr. Jens Daniel M&uuml;ller  
 
-Environmental Physics Group  
-ETH Zürich  
-http://www.up.ethz.ch  
+Carbon to Sea Initiative  
+Washington D.C., USA  
+https://www.carbontosea.org/  
+(working remotely from Zurich, Switzerland)
 
 ***
 
-Mail: [jensdaniel.mueller@usys.ethz.ch](mailto:jensdaniel.mueller@usys.ethz.ch)  
+Mail: [jens@carbontosea.org](mailto:jens@carbontosea.org)  
 
-Twitter: [Jens_D_Mueller](https://twitter.com/Jens_D_Mueller)
+Bluesky: [jens-d-mueller](https://bsky.app/profile/jens-d-mueller.bsky.social)
+
+LinkedIn:  [jens-daniel-mueller](https://www.linkedin.com/in/jens-daniel-mueller/)
 
 ORCID iD: [0000-0003-3137-0883](https://orcid.org/0000-0003-3137-0883)
 
@@ -28,12 +31,11 @@ library(leaflet)
 library(tidyverse)
 
 ETHZ <- paste(sep = "<br/>",
-  "<b><a href='https://up.ethz.ch/'>Environmetal Physics, ETH Zurich</a></b>",
-  "Universitaetsstr 16",
-  "8006 Zurich, SWitzerland"
+  "Home in Albisrieden",
+  "8047 Zurich, Switzerland"
 )
 
-places <- tibble(lat = c(47.3791923), lon=c(8.5484717), label=c(ETHZ))
+places <- tibble(lat = c(47.374382), lon=c(8.483233), label=c(ETHZ))
 
 places %>% 
   leaflet() %>%
