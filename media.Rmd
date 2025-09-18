@@ -43,6 +43,9 @@ h1.title {
 
 # Podcast
 
+**SRF3 Audio Aktuell** | 5.9.2025 | [Link](https://www.srf.ch/play/radio/redirect/detail/23134778-b5e5-4630-bd14-adece56cc7ae){target="_blank"}  
+[ger] 2min intro to our recent study on the unexpected decline of the ocean carbon sink in 2023.  
+
 **Segelradio - Hinnerk Weiler** | 18.4.2019 | [Link](https://segelradio.de/2019/04/18/bloomsail-den-ostsee-blaualgen-auf-der-spur/){target="_blank"}  
 [ger] 45min chat about the BloomSail expedition. Science from a sailors perspective.  
 
@@ -65,6 +68,9 @@ h1.title {
 ***
 
 # Online
+
+**SRF** | Sept 2025 | [link](https://www.srf.ch/wissen/klimawandel/klimawandel-warum-der-klimapuffer-meer-schwaechelt){target="_blank"}   
+[ger] Klimawandel - Warum der Klimapuffer Meer schwächelt.
 
 **International Ocean Systems** | March/April 2019 | [pdf](media/1903_iOS_pH_method_online.pdf){target="_blank"}   
 [eng] 2-pager summarizing our ambitions to extend pH measurements from oceans to brackish waters.
