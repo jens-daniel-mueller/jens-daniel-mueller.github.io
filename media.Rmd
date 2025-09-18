@@ -43,7 +43,7 @@ h1.title {
 
 # Podcast
 
-**Segelradio - Hinnerk Weiler** | 18.4.2019 | [Link](https://www.segelradio.de/bloomsail-den-ostsee-blaualgen-auf-der-spur/?fbclid=IwAR00T4uOKApx0zyHyfR51nNBga-3kxMCIMcqsyyul23oAjicEYFBTqpaJLo){target="_blank"}  
+**Segelradio - Hinnerk Weiler** | 18.4.2019 | [Link](https://segelradio.de/2019/04/18/bloomsail-den-ostsee-blaualgen-auf-der-spur/){target="_blank"}  
 [ger] 45min chat about the BloomSail expedition. Science from a sailors perspective.  
 
 **WDR Campus Wissen - Peter Kaiser** | Ozeanversauerung | [mp3](media/190310_WDR_Campus_Wissen_Peter_Kaiser_Ozeanversauerung_Podcast.mp3){target="_blank"}    
@@ -66,10 +66,10 @@ h1.title {
 
 # Online
 
-**International Ocean Systems** | March/April 2019 | [Link](http://www.intoceansys.co.uk/articles-detail.php?iss=0000000071&acl=0000000647){target="_blank"}   
+**International Ocean Systems** | March/April 2019 | [pdf](media/1903_iOS_pH_method_online.pdf){target="_blank"}   
 [eng] 2-pager summarizing our ambitions to extend pH measurements from oceans to brackish waters.
 
-**National Geographic Deutschland** | 30.05.2019 | [Link](https://www.nationalgeographic.de/wissenschaft/2018/05/toedliche-bluete?fbclid=IwAR2mWF6eLrLooLic9IrZqiDVQmZUGquxM7p71L5h-ZbLHogrXHRtGQWkEFU){target="_blank"}   
+**National Geographic Deutschland** | 30.05.2019 | [pdf](media/181201_National Geographic Deutschland_Dezember_2018_nicht_final.pdf){target="_blank"}   
 [ger] Report informing about the start of the NGS-funded BloomSail expedition.
 
 
