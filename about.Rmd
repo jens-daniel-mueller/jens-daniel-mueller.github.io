@@ -31,9 +31,16 @@ Please find a complete and detailed CV including publication list [here](CV/CV_M
 <div style="margin-bottom:50px;">
 </div>
 
+# Current position
+
+2025 - present  
+**Research Fellow**  
+Carbon to Sea, Washington D.C.  
+Coordinator of [OAEMIP](https://www.carbontosea.org/2025/03/20/oae-model-intercomparison-project/){target="_blank"} – the first global ocean alkalinity enhancement model intercomparison project
+
 # Postdoctoral employment
 
-2020 - present  
+2020 - 2025  
 **Postdoctoral researcher**  
 ETH Zurich  
 Environmental Physics | Prof. Dr. Nicolas Gruber  
