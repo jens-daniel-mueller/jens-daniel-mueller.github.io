@@ -36,6 +36,23 @@ As pointed out in a recent [ocean carbon review paper](https://doi.org/10.1038/s
 
 ***
 
+## Climate Solutions
+### The Ocean Alkalinity Enhancement Model Intercomparison Project (OAEMIP)
+
+The Ocean Alkalinity Enhancement Model Intercomparison Project ([OAEMIP](https://www.carbontosea.org/2025/03/20/oae-model-intercomparison-project/){target="_blank"}) is a new, three-year initiative funded by Carbon to Sea and Google to improve the comparability of OAE modeling studies. By coordinating standardized multi-model experiments at five locations, OAEMIP will investigate how OAE efficiency varies with location, season, and experimental design, helping to reduce model uncertainty. The project aims to set a high standard for scientific rigor, constrain our confidence in OAE’s potential as a carbon removal approach, and eventually support the development of robust carbon credit markets. As coordinator, I work with international modeling teams and a steering committee to ensure transparency, scientific excellence, and meaningful outcomes for the field.
+
+
+<center>
+![](img/research_foci/oae-modelling-1.jpg){width=80%}
+
+</center>
+
+<div style="margin-bottom:50px;">
+</div>
+
+
+***
+
 
 
 ## Baltic Sea Biogeochemistry
